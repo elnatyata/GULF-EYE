@@ -1,0 +1,211 @@
+{
+ "note": "SIMULATED agency submissions for the GulfEye demo. Invented units, references and events. Not intelligence.",
+ "batches": [
+  {
+   "agency": "NN",
+   "kind": "patrol_reports",
+   "channel": "api",
+   "received_at": "2026-11-04T07:30:00Z",
+   "records": [
+    {
+     "ref": "NN-PR-0101",
+     "observed_at": "2026-11-04T04:50:00Z",
+     "lat": 3.83,
+     "lon": 6.86,
+     "unit": "Patrol craft P-17",
+     "description": "Two fast skiffs without lights loitering near the Bonny fairway buoy; withdrew south when illuminated."
+    },
+    {
+     "ref": "NN-PR-0102",
+     "observed_at": "2026-11-04T06:20:00Z",
+     "lat": 3.455,
+     "lon": 8.772,
+     "unit": "Patrol craft P-22",
+     "mmsi": "610438987",
+     "description": "Fishing vessel with a canoe alongside, about eight men; crew did not answer on VHF 16."
+    }
+   ]
+  },
+  {
+   "agency": "NN",
+   "kind": "sightings",
+   "channel": "api",
+   "received_at": "2026-11-04T01:10:00Z",
+   "records": [
+    {
+     "ref": "NN-SGT-0410",
+     "observed_at": "2026-11-03T23:55:00Z",
+     "lat": 4.262,
+     "lon": 5.552,
+     "mmsi": "667843800",
+     "vessel_name": "MV Sea Harmony",
+     "speed_kn": 8.5,
+     "course": 105,
+     "description": "Maritime patrol aircraft: small cargo ship heading east, no AIS received by the aircraft."
+    }
+   ]
+  },
+  {
+   "agency": "MPOL",
+   "kind": "watchlist",
+   "channel": "csv",
+   "filename": "mpol_watchlist_nov.csv",
+   "received_at": "2026-11-02T09:00:00Z",
+   "records": [
+    {
+     "ref": "MPOL-WL-21",
+     "mmsi": "613658626",
+     "name": "MT Bight Runner",
+     "level": "monitor",
+     "reason": "Mentioned in a 2026 fuel-smuggling investigation (simulated).",
+     "valid_until": "2027-06-30"
+    },
+    {
+     "ref": "MPOL-WL-22",
+     "mmsi": "351559081",
+     "name": "MT Gulf Voyager",
+     "level": "suspect",
+     "reason": "Suspected of supplying illegal bunkering barges in the Forcados area (simulated).",
+     "valid_until": "2027-03-31"
+    },
+    {
+     "ref": "MPOL-WL-23",
+     "name": "Ocean Star 7",
+     "level": "suspect",
+     "reason": "Fast boat from the Calabar creeks linked to 2025 kidnappings (simulated). Not in the AIS picture."
+    }
+   ]
+  },
+  {
+   "agency": "NIMASA",
+   "kind": "radar_contacts",
+   "channel": "api",
+   "received_at": "2026-11-04T06:05:00Z",
+   "records": [
+    {
+     "ref": "CR-90011",
+     "observed_at": "2026-11-04T05:52:00Z",
+     "lat": 5.9024,
+     "lon": 3.9013,
+     "length_m": 58,
+     "speed_kn": 0.1,
+     "confidence": 0.82,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-90012",
+     "observed_at": "2026-11-04T05:55:00Z",
+     "lat": 3.845,
+     "lon": 6.885,
+     "length_m": 12,
+     "speed_kn": 18,
+     "course": 320,
+     "confidence": 0.7,
+     "sensor": "Bonny coastal radar (trial)"
+    },
+    {
+     "ref": "CR-90013",
+     "observed_at": "2026-11-04T05:58:00Z",
+     "lat": 3.741,
+     "lon": 6.745,
+     "length_m": 10,
+     "speed_kn": 21,
+     "course": 315,
+     "confidence": 0.66,
+     "sensor": "Bonny coastal radar (trial)"
+    },
+    {
+     "ref": "CR-90014",
+     "observed_at": "2026-11-04T06:01:00Z",
+     "lat": 12.5,
+     "lon": 6.7,
+     "length_m": 30,
+     "sensor": "Bonny coastal radar (trial)"
+    }
+   ]
+  },
+  {
+   "agency": "NPA",
+   "kind": "incidents",
+   "channel": "csv",
+   "filename": "npa_harbour_log_0311.csv",
+   "received_at": "2026-11-03T08:15:00Z",
+   "records": [
+    {
+     "ref": "NPA-INC-311",
+     "type": "armed_robbery",
+     "title": "Mooring ropes stolen at Lagos anchorage",
+     "observed_at": "2026-11-03T02:30:00Z",
+     "lat": 6.016,
+     "lon": 3.702,
+     "place": "Lagos anchorage",
+     "description": "Robbers boarded at night from a canoe and took mooring ropes; watchman raised the alarm.",
+     "mmsi": "610765617",
+     "role": "victim"
+    },
+    {
+     "ref": "NPA-INC-312",
+     "type": "theft",
+     "title": "Paint stolen",
+     "observed_at": "2026-11-03T03:10:00Z",
+     "lat": 6.02,
+     "lon": 3.71,
+     "description": "Paint drums missing from deck."
+    }
+   ]
+  },
+  {
+   "agency": "MPOL",
+   "kind": "incidents",
+   "channel": "api",
+   "received_at": "2026-11-03T09:40:00Z",
+   "records": [
+    {
+     "ref": "MPOL-INC-5521",
+     "type": "armed_robbery",
+     "title": "Robbery at anchor reported by MV Mono Bay",
+     "observed_at": "2026-11-03T02:50:00Z",
+     "lat": 6.021,
+     "lon": 3.709,
+     "place": "Lagos anchorage",
+     "description": "Master of MV Mono Bay called the police launch: men from a canoe boarded aft and left with ropes.",
+     "mmsi": "610765617",
+     "role": "victim"
+    }
+   ]
+  },
+  {
+   "agency": "NN",
+   "kind": "incidents",
+   "channel": "api",
+   "received_at": "2026-11-04T00:30:00Z",
+   "records": [
+    {
+     "ref": "NN-INC-0877",
+     "type": "suspicious_approach",
+     "title": "Unlit skiff shadowed fishing vessels near the fairway buoy",
+     "observed_at": "2026-11-03T21:35:00Z",
+     "lat": 3.92,
+     "lon": 6.88,
+     "place": "Bonny fairway buoy",
+     "description": "Fishermen told patrol craft P-17 that an unlit skiff followed them for 20 minutes, then headed south."
+    }
+   ]
+  },
+  {
+   "agency": "NN",
+   "kind": "watchlist",
+   "channel": "api",
+   "received_at": "2026-11-03T12:00:00Z",
+   "records": [
+    {
+     "ref": "NN-WL-0042",
+     "mmsi": "351559081",
+     "name": "Gulf Voyager",
+     "level": "monitor",
+     "reason": "Observed loitering near offshore pipelines in October (simulated)."
+    }
+   ]
+  }
+ ]
+}

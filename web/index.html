@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GulfEye · maritime intelligence</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230B5C7A'/%3E%3Ccircle cx='16' cy='16' r='8' fill='none' stroke='white' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='3' fill='%23FF4D5A'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+        <rect width="32" height="32" rx="9" fill="#0B5C7A"/>
+        <circle cx="16" cy="16" r="9" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.6"/>
+        <circle cx="16" cy="16" r="4.8" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.6"/>
+        <path d="M16 16 23 9" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round"/>
+        <circle cx="21" cy="19.5" r="2.2" fill="#FF4D5A"/>
+      </svg>
+      <div><div class="brand-name">GulfEye</div><div class="brand-sub">Maritime intelligence · Nigerian waters &amp; Gulf of Guinea</div></div>
+    </div>
+    <div class="farm-chip"><span id="farm-line">Loading…</span> <span class="tag tag-synthetic">Simulated data</span></div>
+    <div class="top-right">
+      <span class="today" id="today"></span>
+      <span class="log-count" id="log-count"></span>
+      <button class="btn ghost" id="reset" data-action="reset" hidden>Reset demo</button>
+      <button class="btn primary" data-action="log">🎙 Log report</button>
+      <div class="user" id="user" hidden></div>
+    </div>
+  </header>
+  <div class="layout">
+    <nav class="sidebar" id="sidebar" aria-label="Sections"></nav>
+    <main class="main" id="main"><div class="loading">Loading the maritime picture…</div></main>
+  </div>
+  <aside class="drawer" id="drawer" aria-label="Details"></aside>
+  <div class="modal" id="capture" hidden></div>
+  <div class="modal" id="panel" hidden></div>
+  <div class="login" id="login" hidden></div>
+  <div class="toast" id="toast" role="status"></div>
+  <footer class="footer">
+    <span id="mode-note"></span>
+    Simulated demo: AIS tracks, radar detections, registry records and the incident history are generated (same formats as Neptune-AIS and a YOLOv8 run on Sentinel-1).
+    GulfEye has no access to NIMASA, Nigerian Navy or other agency systems; those feeds need authorised integrations.
+    Risk scores and alerts support human investigation and are not proof of wrongdoing. Not for operational use.
+  </footer>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

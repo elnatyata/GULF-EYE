@@ -1,0 +1,111 @@
+{
+ "source": "Synthetic sea-state forecast (offline demo). Run with --refresh-forecast for Open-Meteo.",
+ "fetched_at": "2026-11-04T08:00",
+ "location": {
+  "lat": 4.0,
+  "lon": 6.0,
+  "note": "Gulf of Guinea centre"
+ },
+ "days": [
+  {
+   "date": "2026-11-04",
+   "weather_code": 2,
+   "tmax": 29.1,
+   "tmin": 25.6,
+   "precip_mm": 0,
+   "precip_prob": 22,
+   "wind_max_kmh": 18.9,
+   "wave_height_max_m": 1.1
+  },
+  {
+   "date": "2026-11-05",
+   "weather_code": 3,
+   "tmax": 29.5,
+   "tmin": 24.5,
+   "precip_mm": 6.5,
+   "precip_prob": 46,
+   "wind_max_kmh": 14.1,
+   "wave_height_max_m": 1.6
+  },
+  {
+   "date": "2026-11-06",
+   "weather_code": 80,
+   "tmax": 31.3,
+   "tmin": 25.2,
+   "precip_mm": 0.4,
+   "precip_prob": 21,
+   "wind_max_kmh": 13.0,
+   "wave_height_max_m": 1.4
+  },
+  {
+   "date": "2026-11-07",
+   "weather_code": 3,
+   "tmax": 29.2,
+   "tmin": 24.7,
+   "precip_mm": 0,
+   "precip_prob": 22,
+   "wind_max_kmh": 20.6,
+   "wave_height_max_m": 1.6
+  },
+  {
+   "date": "2026-11-08",
+   "weather_code": 61,
+   "tmax": 29.5,
+   "tmin": 24.3,
+   "precip_mm": 9.3,
+   "precip_prob": 57,
+   "wind_max_kmh": 43.4,
+   "wave_height_max_m": 2.5
+  },
+  {
+   "date": "2026-11-09",
+   "weather_code": 63,
+   "tmax": 29.8,
+   "tmin": 24.5,
+   "precip_mm": 12.3,
+   "precip_prob": 69,
+   "wind_max_kmh": 43.3,
+   "wave_height_max_m": 3.0
+  },
+  {
+   "date": "2026-11-10",
+   "weather_code": 80,
+   "tmax": 30.0,
+   "tmin": 25.1,
+   "precip_mm": 6.5,
+   "precip_prob": 46,
+   "wind_max_kmh": 20.0,
+   "wave_height_max_m": 1.5
+  },
+  {
+   "date": "2026-11-11",
+   "weather_code": 3,
+   "tmax": 29.6,
+   "tmin": 25.7,
+   "precip_mm": 6.5,
+   "precip_prob": 46,
+   "wind_max_kmh": 24.1,
+   "wave_height_max_m": 1.2
+  },
+  {
+   "date": "2026-11-12",
+   "weather_code": 2,
+   "tmax": 30.5,
+   "tmin": 24.3,
+   "precip_mm": 0.4,
+   "precip_prob": 21,
+   "wind_max_kmh": 11.4,
+   "wave_height_max_m": 1.5
+  },
+  {
+   "date": "2026-11-13",
+   "weather_code": 2,
+   "tmax": 30.0,
+   "tmin": 25.8,
+   "precip_mm": 0,
+   "precip_prob": 17,
+   "wind_max_kmh": 22.8,
+   "wave_height_max_m": 0.9
+  }
+ ]
+}

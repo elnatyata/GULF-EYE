@@ -1,0 +1,14 @@
+# Render blueprint: New → Blueprint → pick this repository. Creates a free web service with a public https link.
+services:
+  - type: web
+    name: gulfeye
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: GULFEYE_SECRET          # token signing key, generated once by Render
+        generateValue: true
+      - key: GULFEYE_DEMO_LOGIN      # one-click demo sign-in for judges; set to 0 for real use
+        value: "1"
+      - key: GULFEYE_TRUST_PROXY
+        value: "1"

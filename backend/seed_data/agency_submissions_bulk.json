@@ -1,0 +1,1412 @@
+{
+ "note": "SIMULATED for the GulfEye demo. Invented companies, numbers and events. Not intelligence.",
+ "batches": [
+  {
+   "agency": "NN",
+   "kind": "sightings",
+   "channel": "api",
+   "received_at": "2026-11-04T07:45:00Z",
+   "records": [
+    {
+     "ref": "NN-SGT-1000",
+     "observed_at": "2026-11-04T03:28:00Z",
+     "lat": 4.1337,
+     "lon": 5.978,
+     "mmsi": "563333921",
+     "vessel_name": "MV Tropic Navigator",
+     "speed_kn": 12.3,
+     "course": 121,
+     "description": "Patrol craft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NN-SGT-1001",
+     "observed_at": "2026-11-04T08:12:00Z",
+     "lat": 2.5987,
+     "lon": 1.1586,
+     "mmsi": "636541518",
+     "vessel_name": "MV Atlantic Dawn",
+     "speed_kn": 12.3,
+     "course": 91,
+     "description": "Patrol craft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NN-SGT-1002",
+     "observed_at": "2026-11-03T23:32:00Z",
+     "lat": 2.5368,
+     "lon": 4.037,
+     "mmsi": "563805645",
+     "vessel_name": "MV Eastern Light",
+     "speed_kn": 10.1,
+     "course": 91,
+     "description": "Patrol craft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1003",
+     "observed_at": "2026-11-03T23:43:00Z",
+     "lat": 4.5572,
+     "lon": -2.1714,
+     "mmsi": "627626309",
+     "vessel_name": "FV Golden Net",
+     "speed_kn": 4.4,
+     "course": 152,
+     "description": "Patrol craft: fishing vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1004",
+     "observed_at": "2026-11-04T03:12:00Z",
+     "lat": 3.9454,
+     "lon": 6.7439,
+     "mmsi": "627634226",
+     "vessel_name": "MT Ada Foah",
+     "speed_kn": 12.5,
+     "course": 111,
+     "description": "Patrol craft: tanker vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NN-SGT-1005",
+     "observed_at": "2026-11-04T03:48:00Z",
+     "lat": 0.4554,
+     "lon": 9.1778,
+     "mmsi": "538534472",
+     "vessel_name": "MV West Pride",
+     "speed_kn": 0.0,
+     "course": 162,
+     "description": "Patrol craft: cargo vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NN-SGT-1006",
+     "observed_at": "2026-11-03T23:30:00Z",
+     "lat": 4.25,
+     "lon": 5.5174,
+     "mmsi": "657226953",
+     "vessel_name": "OSV Savanna",
+     "speed_kn": 1.8,
+     "course": 325,
+     "description": "Patrol craft: supply vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NN-SGT-1007",
+     "observed_at": "2026-11-04T01:48:00Z",
+     "lat": 4.8139,
+     "lon": -3.2656,
+     "mmsi": "636816414",
+     "vessel_name": "MV Kribi Breeze",
+     "speed_kn": 11.9,
+     "course": 108,
+     "description": "Patrol craft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1008",
+     "observed_at": "2026-11-04T06:07:00Z",
+     "lat": 2.4367,
+     "lon": 5.5993,
+     "mmsi": "671400843",
+     "vessel_name": "MT Corisco Venture",
+     "speed_kn": 0.3,
+     "course": 245,
+     "description": "Patrol craft: tanker vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1009",
+     "observed_at": "2026-11-04T08:07:00Z",
+     "lat": 4.8194,
+     "lon": -1.6867,
+     "mmsi": "256309367",
+     "vessel_name": "MT Benue Hope",
+     "speed_kn": 0.1,
+     "course": 191,
+     "description": "Patrol craft: tanker vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1010",
+     "observed_at": "2026-11-04T07:42:00Z",
+     "lat": 3.6528,
+     "lon": 6.1062,
+     "mmsi": "538581620",
+     "vessel_name": "OSV Atlantic Swift",
+     "speed_kn": 1.5,
+     "course": 256,
+     "description": "Patrol craft: supply vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1011",
+     "observed_at": "2026-11-04T03:02:00Z",
+     "lat": 2.7074,
+     "lon": -0.0605,
+     "mmsi": "209582816",
+     "vessel_name": "MV West Crest",
+     "speed_kn": 13.6,
+     "course": 96,
+     "description": "Patrol craft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NN-SGT-1012",
+     "observed_at": "2026-11-04T05:32:00Z",
+     "lat": 2.5076,
+     "lon": 5.6095,
+     "mmsi": "209769582",
+     "vessel_name": "MV Eko Star",
+     "speed_kn": 8.2,
+     "course": 91,
+     "description": "Patrol craft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NN-SGT-1013",
+     "observed_at": "2026-11-04T07:08:00Z",
+     "lat": 4.6082,
+     "lon": -2.4866,
+     "mmsi": "477203954",
+     "vessel_name": "MT Ada Hope",
+     "speed_kn": 12.5,
+     "course": 87,
+     "description": "Patrol craft: tanker vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1014",
+     "observed_at": "2026-11-04T02:50:00Z",
+     "lat": -1.212,
+     "lon": 6.2253,
+     "mmsi": "671209738",
+     "vessel_name": "MT Delta Hope",
+     "speed_kn": 14.0,
+     "course": 164,
+     "description": "Patrol craft: tanker vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NN-SGT-1015",
+     "observed_at": "2026-11-04T01:14:00Z",
+     "lat": 5.1488,
+     "lon": -4.1032,
+     "mmsi": "636544257",
+     "vessel_name": "MV Harbour Swift",
+     "speed_kn": 0.1,
+     "course": 87,
+     "description": "Patrol craft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NN-SGT-1016",
+     "observed_at": "2026-11-03T23:00:00Z",
+     "lat": 4.57,
+     "lon": -2.7657,
+     "mmsi": "538934096",
+     "vessel_name": "OSV Coral Hope",
+     "speed_kn": 2.2,
+     "course": 42,
+     "description": "Patrol craft: supply vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NN-SGT-1017",
+     "observed_at": "2026-11-04T08:11:00Z",
+     "lat": 4.7556,
+     "lon": -5.7889,
+     "mmsi": "668706060",
+     "vessel_name": "MV Kribi Runner",
+     "speed_kn": 11.5,
+     "course": 256,
+     "description": "Patrol craft: cargo vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1018",
+     "observed_at": "2026-11-04T02:46:00Z",
+     "lat": 4.7115,
+     "lon": 4.9113,
+     "mmsi": "627643736",
+     "vessel_name": "OSV Lekki Tide",
+     "speed_kn": 2.1,
+     "course": 136,
+     "description": "Patrol craft: supply vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1019",
+     "observed_at": "2026-11-04T06:22:00Z",
+     "lat": 2.7937,
+     "lon": 5.4345,
+     "mmsi": "657235256",
+     "vessel_name": "MV Gulf Navigator",
+     "speed_kn": 10.6,
+     "course": 164,
+     "description": "Patrol craft: cargo vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1020",
+     "observed_at": "2026-11-04T06:08:00Z",
+     "lat": 3.9182,
+     "lon": 7.3975,
+     "mmsi": "657894027",
+     "vessel_name": "MV Obalende",
+     "speed_kn": 8.3,
+     "course": 267,
+     "description": "Patrol craft: cargo vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1021",
+     "observed_at": "2026-11-04T04:10:00Z",
+     "lat": 4.7082,
+     "lon": 5.5313,
+     "mmsi": "671153889",
+     "vessel_name": "MV Coastal Hope",
+     "speed_kn": 10.4,
+     "course": 130,
+     "description": "Patrol craft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NN-SGT-1022",
+     "observed_at": "2026-11-03T21:50:00Z",
+     "lat": 5.0588,
+     "lon": 4.9915,
+     "mmsi": "626406409",
+     "vessel_name": "MT Harbour Sun",
+     "speed_kn": 11.4,
+     "course": 135,
+     "description": "Patrol craft: tanker vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NN-SGT-1023",
+     "observed_at": "2026-11-03T21:34:00Z",
+     "lat": 2.497,
+     "lon": 6.1446,
+     "mmsi": "538580352",
+     "vessel_name": "MT West Wind",
+     "speed_kn": 8.6,
+     "course": 92,
+     "description": "Patrol craft: tanker vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NN-SGT-1024",
+     "observed_at": "2026-11-03T20:02:00Z",
+     "lat": 4.9613,
+     "lon": 2.0705,
+     "mmsi": "351299612",
+     "vessel_name": "FV Blue Horizon",
+     "speed_kn": 3.7,
+     "course": 65,
+     "description": "Patrol craft: fishing vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NN-SGT-1025",
+     "observed_at": "2026-11-04T07:05:00Z",
+     "lat": 4.6218,
+     "lon": -6.8271,
+     "mmsi": "563555027",
+     "vessel_name": "FV Kribi Star",
+     "speed_kn": 4.0,
+     "course": 283,
+     "description": "Patrol craft: fishing vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NN-SGT-1026",
+     "observed_at": "2026-11-04T00:05:00Z",
+     "lat": 5.9776,
+     "lon": 1.6949,
+     "mmsi": "613759354",
+     "vessel_name": "MV Savanna",
+     "speed_kn": 0.0,
+     "course": 342,
+     "description": "Patrol craft: cargo vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1027",
+     "observed_at": "2026-11-03T22:41:00Z",
+     "lat": 5.5707,
+     "lon": 0.032,
+     "mmsi": "626829234",
+     "vessel_name": "MV Comoe Endeavour",
+     "speed_kn": 0.1,
+     "course": 2,
+     "description": "Patrol craft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1028",
+     "observed_at": "2026-11-04T01:49:00Z",
+     "lat": 6.174,
+     "lon": 3.7293,
+     "mmsi": "626727435",
+     "vessel_name": "MV Ogun Pearl",
+     "speed_kn": 0.0,
+     "course": 151,
+     "description": "Patrol craft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1029",
+     "observed_at": "2026-11-03T20:34:00Z",
+     "lat": 4.039,
+     "lon": 8.5801,
+     "mmsi": "657377246",
+     "vessel_name": "MV Bandama Dawn",
+     "speed_kn": 14.6,
+     "course": 151,
+     "description": "Patrol craft: passenger vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1030",
+     "observed_at": "2026-11-04T01:20:00Z",
+     "lat": 6.2697,
+     "lon": 2.4359,
+     "mmsi": "636923302",
+     "vessel_name": "MV Royal Star",
+     "speed_kn": 0.0,
+     "course": 182,
+     "description": "Patrol craft: cargo vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NN-SGT-1031",
+     "observed_at": "2026-11-04T00:00:00Z",
+     "lat": 5.3838,
+     "lon": 0.5254,
+     "mmsi": "563722216",
+     "vessel_name": "MT Kribi Dawn",
+     "speed_kn": 9.5,
+     "course": 278,
+     "description": "Patrol craft: tanker vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1032",
+     "observed_at": "2026-11-04T04:22:00Z",
+     "lat": 6.087,
+     "lon": 3.58,
+     "mmsi": "209455241",
+     "vessel_name": "MV Wouri Star",
+     "speed_kn": 0.1,
+     "course": 165,
+     "description": "Patrol craft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NN-SGT-1033",
+     "observed_at": "2026-11-03T20:41:00Z",
+     "lat": -1.0464,
+     "lon": 8.5377,
+     "mmsi": "240825382",
+     "vessel_name": "OSV Kribi Bay",
+     "speed_kn": 2.4,
+     "course": 239,
+     "description": "Patrol craft: supply vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NN-SGT-1034",
+     "observed_at": "2026-11-03T21:34:00Z",
+     "lat": 2.3808,
+     "lon": 5.4435,
+     "mmsi": "616248065",
+     "vessel_name": "MT Keta Harvest",
+     "speed_kn": 7.9,
+     "course": 68,
+     "description": "Patrol craft: tanker vessel identified visually, no anomalies."
+    }
+   ]
+  },
+  {
+   "agency": "NAF",
+   "kind": "sightings",
+   "channel": "api",
+   "received_at": "2026-11-04T07:50:00Z",
+   "records": [
+    {
+     "ref": "NAF-MPA-500",
+     "observed_at": "2026-11-04T04:03:00Z",
+     "lat": 5.9005,
+     "lon": 3.8998,
+     "mmsi": "636806273",
+     "vessel_name": "MT Atlantic Pearl",
+     "speed_kn": 0.2,
+     "course": 188,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NAF-MPA-501",
+     "observed_at": "2026-11-04T05:29:00Z",
+     "lat": 4.6315,
+     "lon": -1.9847,
+     "mmsi": "538878636",
+     "vessel_name": "MT Eko Crest",
+     "speed_kn": 12.0,
+     "course": 87,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NAF-MPA-502",
+     "observed_at": "2026-11-04T00:12:00Z",
+     "lat": 4.8539,
+     "lon": -1.6486,
+     "mmsi": "563549075",
+     "vessel_name": "MV Corisco Sun",
+     "speed_kn": 0.0,
+     "course": 172,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-503",
+     "observed_at": "2026-11-03T23:32:00Z",
+     "lat": 4.7662,
+     "lon": -1.7277,
+     "mmsi": "477405565",
+     "vessel_name": "MV Comoe Horizon",
+     "speed_kn": 0.0,
+     "course": 115,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-504",
+     "observed_at": "2026-11-04T06:27:00Z",
+     "lat": 4.8326,
+     "lon": 2.0844,
+     "mmsi": "671594267",
+     "vessel_name": "FV Ogooue Star",
+     "speed_kn": 3.8,
+     "course": 209,
+     "description": "Maritime patrol aircraft: fishing vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NAF-MPA-505",
+     "observed_at": "2026-11-03T20:43:00Z",
+     "lat": 4.6195,
+     "lon": -6.33,
+     "mmsi": "610600041",
+     "vessel_name": "MV Akwa Mariner",
+     "speed_kn": 12.2,
+     "course": 76,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-506",
+     "observed_at": "2026-11-04T05:43:00Z",
+     "lat": 0.428,
+     "lon": 9.1067,
+     "mmsi": "209195371",
+     "vessel_name": "MT Sahel Promise",
+     "speed_kn": 11.0,
+     "course": 14,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NAF-MPA-507",
+     "observed_at": "2026-11-03T20:25:00Z",
+     "lat": 5.7728,
+     "lon": 2.0301,
+     "mmsi": "538420447",
+     "vessel_name": "MV Niger Pearl",
+     "speed_kn": 10.0,
+     "course": 259,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-508",
+     "observed_at": "2026-11-03T21:13:00Z",
+     "lat": 2.5828,
+     "lon": 1.9199,
+     "mmsi": "351590816",
+     "vessel_name": "MT Warri Belle",
+     "speed_kn": 9.1,
+     "course": 91,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-509",
+     "observed_at": "2026-11-04T07:33:00Z",
+     "lat": 5.0132,
+     "lon": 5.0368,
+     "mmsi": "477903507",
+     "vessel_name": "MV Volta Breeze",
+     "speed_kn": 13.7,
+     "course": 315,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-510",
+     "observed_at": "2026-11-04T07:31:00Z",
+     "lat": 4.4189,
+     "lon": 5.8159,
+     "mmsi": "613667161",
+     "vessel_name": "MV Calabar Dawn",
+     "speed_kn": 12.5,
+     "course": 310,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-511",
+     "observed_at": "2026-11-04T03:13:00Z",
+     "lat": 6.133,
+     "lon": 3.7316,
+     "mmsi": "626281346",
+     "vessel_name": "MV Kribi Pearl",
+     "speed_kn": 0.1,
+     "course": 280,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NAF-MPA-512",
+     "observed_at": "2026-11-04T03:02:00Z",
+     "lat": 4.3343,
+     "lon": 5.5928,
+     "mmsi": "668734471",
+     "vessel_name": "OSV Benue Falcon",
+     "speed_kn": 2.0,
+     "course": 157,
+     "description": "Maritime patrol aircraft: supply vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-513",
+     "observed_at": "2026-11-04T03:26:00Z",
+     "lat": 5.9665,
+     "lon": 3.1195,
+     "mmsi": "657119547",
+     "vessel_name": "MT Bandama Harvest",
+     "speed_kn": 12.2,
+     "course": 261,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-514",
+     "observed_at": "2026-11-03T22:27:00Z",
+     "lat": 5.8441,
+     "lon": 3.7627,
+     "mmsi": "538126315",
+     "vessel_name": "MV Lagoon Breeze",
+     "speed_kn": 11.8,
+     "course": 292,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NAF-MPA-515",
+     "observed_at": "2026-11-04T00:08:00Z",
+     "lat": 5.6853,
+     "lon": 1.2465,
+     "mmsi": "256639683",
+     "vessel_name": "MV Bonga Trader",
+     "speed_kn": 0.3,
+     "course": 77,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NAF-MPA-516",
+     "observed_at": "2026-11-03T20:04:00Z",
+     "lat": 4.4455,
+     "lon": -1.0668,
+     "mmsi": "244848972",
+     "vessel_name": "FV Sassandra Mariner",
+     "speed_kn": 3.5,
+     "course": 90,
+     "description": "Maritime patrol aircraft: fishing vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-517",
+     "observed_at": "2026-11-04T03:11:00Z",
+     "lat": 4.6186,
+     "lon": -6.3281,
+     "mmsi": "613101904",
+     "vessel_name": "MV Ivory Endeavour",
+     "speed_kn": 10.9,
+     "course": 256,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NAF-MPA-518",
+     "observed_at": "2026-11-03T22:54:00Z",
+     "lat": 5.5399,
+     "lon": 1.1264,
+     "mmsi": "518661955",
+     "vessel_name": "MT Cape Sable",
+     "speed_kn": 7.8,
+     "course": 209,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NAF-MPA-519",
+     "observed_at": "2026-11-04T08:09:00Z",
+     "lat": 3.9148,
+     "lon": 6.6561,
+     "mmsi": "256916041",
+     "vessel_name": "MV Bonga Promise",
+     "speed_kn": 9.2,
+     "course": 101,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-520",
+     "observed_at": "2026-11-03T21:49:00Z",
+     "lat": 4.5656,
+     "lon": 4.8979,
+     "mmsi": "626698705",
+     "vessel_name": "OSV Zenith Mariner",
+     "speed_kn": 2.2,
+     "course": 155,
+     "description": "Maritime patrol aircraft: supply vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-521",
+     "observed_at": "2026-11-04T02:05:00Z",
+     "lat": 5.858,
+     "lon": 2.4438,
+     "mmsi": "613110990",
+     "vessel_name": "MV Port Royal",
+     "speed_kn": 10.7,
+     "course": 81,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-522",
+     "observed_at": "2026-11-04T03:11:00Z",
+     "lat": 1.0601,
+     "lon": 9.2627,
+     "mmsi": "626530725",
+     "vessel_name": "MV Lagoon Dawn",
+     "speed_kn": 11.7,
+     "course": 194,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-523",
+     "observed_at": "2026-11-04T04:20:00Z",
+     "lat": 0.8147,
+     "lon": 7.0028,
+     "mmsi": "351512401",
+     "vessel_name": "MV Akwa Crest",
+     "speed_kn": 17.5,
+     "course": 27,
+     "description": "Maritime patrol aircraft: passenger vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NAF-MPA-524",
+     "observed_at": "2026-11-03T21:20:00Z",
+     "lat": 3.9256,
+     "lon": 6.8021,
+     "mmsi": "627707788",
+     "vessel_name": "MV Orion Pass",
+     "speed_kn": 9.6,
+     "course": 111,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-525",
+     "observed_at": "2026-11-03T21:08:00Z",
+     "lat": 4.7083,
+     "lon": -1.4996,
+     "mmsi": "668314143",
+     "vessel_name": "MT Kribi Harvest",
+     "speed_kn": 8.3,
+     "course": 61,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NAF-MPA-526",
+     "observed_at": "2026-11-04T07:05:00Z",
+     "lat": 4.1879,
+     "lon": 6.9859,
+     "mmsi": "671897813",
+     "vessel_name": "Tug West Navigator",
+     "speed_kn": 3.0,
+     "course": 200,
+     "description": "Maritime patrol aircraft: tug vessel identified visually, answered on VHF 16."
+    },
+    {
+     "ref": "NAF-MPA-527",
+     "observed_at": "2026-11-04T00:29:00Z",
+     "lat": 3.1184,
+     "lon": -4.3121,
+     "mmsi": "631728334",
+     "vessel_name": "MT Atlantic Breeze",
+     "speed_kn": 14.1,
+     "course": 95,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-528",
+     "observed_at": "2026-11-04T00:30:00Z",
+     "lat": 6.0158,
+     "lon": 3.7063,
+     "mmsi": "610765617",
+     "vessel_name": "MV Mono Bay",
+     "speed_kn": 0.2,
+     "course": 321,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-529",
+     "observed_at": "2026-11-03T22:23:00Z",
+     "lat": 4.6711,
+     "lon": -6.7258,
+     "mmsi": "257452876",
+     "vessel_name": "MV Sassandra Dawn",
+     "speed_kn": 0.0,
+     "course": 214,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NAF-MPA-530",
+     "observed_at": "2026-11-04T00:05:00Z",
+     "lat": 5.5667,
+     "lon": 0.1242,
+     "mmsi": "631143440",
+     "vessel_name": "MT Corisco Mariner",
+     "speed_kn": 0.1,
+     "course": 206,
+     "description": "Maritime patrol aircraft: tanker vessel identified visually, normal transit."
+    },
+    {
+     "ref": "NAF-MPA-531",
+     "observed_at": "2026-11-04T01:01:00Z",
+     "lat": 0.3836,
+     "lon": 6.3423,
+     "mmsi": "668488922",
+     "vessel_name": "FV Coral Spirit",
+     "speed_kn": 3.0,
+     "course": 257,
+     "description": "Maritime patrol aircraft: fishing vessel identified visually, crew on deck."
+    },
+    {
+     "ref": "NAF-MPA-532",
+     "observed_at": "2026-11-03T23:48:00Z",
+     "lat": 5.7563,
+     "lon": 1.4993,
+     "mmsi": "351998986",
+     "vessel_name": "MV Delta Light",
+     "speed_kn": 0.0,
+     "course": 240,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, flag confirmed."
+    },
+    {
+     "ref": "NAF-MPA-533",
+     "observed_at": "2026-11-04T08:12:00Z",
+     "lat": 4.5787,
+     "lon": 1.8633,
+     "mmsi": "626645322",
+     "vessel_name": "FV Wouri Harvest",
+     "speed_kn": 2.5,
+     "course": 281,
+     "description": "Maritime patrol aircraft: fishing vessel identified visually, no anomalies."
+    },
+    {
+     "ref": "NAF-MPA-534",
+     "observed_at": "2026-11-03T21:44:00Z",
+     "lat": 6.0548,
+     "lon": 3.6924,
+     "mmsi": "668213868",
+     "vessel_name": "MV Ada Light",
+     "speed_kn": 0.0,
+     "course": 191,
+     "description": "Maritime patrol aircraft: cargo vessel identified visually, no anomalies."
+    }
+   ]
+  },
+  {
+   "agency": "NAF",
+   "kind": "sightings",
+   "channel": "api",
+   "received_at": "2026-11-04T07:55:00Z",
+   "records": [
+    {
+     "ref": "NAF-MPA-600",
+     "observed_at": "2026-11-04T00:28:00Z",
+     "lat": 2.8848,
+     "lon": 8.5476,
+     "length_m": 11,
+     "speed_kn": 18.5,
+     "description": "Fast skiff, several persons on board, no AIS"
+    },
+    {
+     "ref": "NAF-MPA-601",
+     "observed_at": "2026-11-03T20:18:00Z",
+     "lat": 3.6759,
+     "lon": 9.1687,
+     "length_m": 9,
+     "speed_kn": 23.8,
+     "description": "Fast skiff, several persons on board, no AIS"
+    },
+    {
+     "ref": "NAF-MPA-602",
+     "observed_at": "2026-11-04T00:43:00Z",
+     "lat": 3.6316,
+     "lon": 8.0779,
+     "length_m": 15,
+     "speed_kn": 21.3,
+     "description": "Wooden boat with drums on deck"
+    },
+    {
+     "ref": "NAF-MPA-603",
+     "observed_at": "2026-11-04T06:09:00Z",
+     "lat": 4.0167,
+     "lon": 6.1909,
+     "length_m": 10,
+     "speed_kn": 27.5,
+     "description": "Wooden boat with drums on deck"
+    },
+    {
+     "ref": "NAF-MPA-604",
+     "observed_at": "2026-11-04T04:04:00Z",
+     "lat": 3.3945,
+     "lon": 7.5511,
+     "length_m": 11,
+     "speed_kn": 13.2,
+     "description": "Two outboard skiffs heading south"
+    },
+    {
+     "ref": "NAF-MPA-605",
+     "observed_at": "2026-11-04T01:23:00Z",
+     "lat": 3.9754,
+     "lon": 7.2288,
+     "length_m": 11,
+     "speed_kn": 12.7,
+     "description": "Wooden boat with drums on deck"
+    },
+    {
+     "ref": "NAF-MPA-606",
+     "observed_at": "2026-11-04T02:51:00Z",
+     "lat": 3.6133,
+     "lon": 8.472,
+     "length_m": 12,
+     "speed_kn": 24.5,
+     "description": "Wooden boat with drums on deck"
+    },
+    {
+     "ref": "NAF-MPA-607",
+     "observed_at": "2026-11-03T20:30:00Z",
+     "lat": 4.0475,
+     "lon": 7.0198,
+     "length_m": 12,
+     "speed_kn": 17.0,
+     "description": "Fast skiff, several persons on board, no AIS"
+    },
+    {
+     "ref": "NAF-MPA-608",
+     "observed_at": "2026-11-04T01:43:00Z",
+     "lat": 2.8304,
+     "lon": 6.7616,
+     "length_m": 8,
+     "speed_kn": 24.6,
+     "description": "Speedboat circling, turned away from the aircraft"
+    },
+    {
+     "ref": "NAF-MPA-609",
+     "observed_at": "2026-11-04T00:07:00Z",
+     "lat": 3.7474,
+     "lon": 7.6789,
+     "length_m": 10,
+     "speed_kn": 17.3,
+     "description": "Speedboat circling, turned away from the aircraft"
+    }
+   ]
+  },
+  {
+   "agency": "NN",
+   "kind": "patrol_reports",
+   "channel": "api",
+   "received_at": "2026-11-04T07:58:00Z",
+   "records": [
+    {
+     "ref": "NN-PR-200",
+     "observed_at": "2026-11-04T06:49:00Z",
+     "lat": 5.4313,
+     "lon": 0.2079,
+     "mmsi": "636747718",
+     "unit": "Patrol craft P-28",
+     "description": "Boarded and inspected MV Corisco Swift: papers in order, 13 crew."
+    },
+    {
+     "ref": "NN-PR-201",
+     "observed_at": "2026-11-04T02:49:00Z",
+     "lat": 5.5636,
+     "lon": 0.1264,
+     "mmsi": "631143440",
+     "unit": "Patrol craft P-12",
+     "description": "Boarded and inspected MT Corisco Mariner: papers in order, 15 crew."
+    },
+    {
+     "ref": "NN-PR-202",
+     "observed_at": "2026-11-04T08:14:00Z",
+     "lat": 3.6627,
+     "lon": 9.2435,
+     "mmsi": "477933831",
+     "unit": "Patrol craft P-27",
+     "description": "Boarded and inspected MV Harbour Breeze: papers in order, 8 crew."
+    },
+    {
+     "ref": "NN-PR-203",
+     "observed_at": "2026-11-04T04:22:00Z",
+     "lat": -0.5713,
+     "lon": 8.621,
+     "mmsi": "668433025",
+     "unit": "Patrol craft P-31",
+     "description": "Boarded and inspected MT Cape Swift: papers in order, 13 crew."
+    },
+    {
+     "ref": "NN-PR-204",
+     "observed_at": "2026-11-03T21:30:00Z",
+     "lat": 4.8966,
+     "lon": 2.1288,
+     "mmsi": "351299612",
+     "unit": "Patrol craft P-32",
+     "description": "Boarded and inspected FV Blue Horizon: papers in order, 21 crew."
+    },
+    {
+     "ref": "NN-PR-205",
+     "observed_at": "2026-11-03T22:45:00Z",
+     "lat": 3.6073,
+     "lon": 8.1174,
+     "mmsi": "240884192",
+     "unit": "Patrol craft P-14",
+     "description": "Boarded and inspected OSV Tropic Wind: papers in order, 29 crew."
+    },
+    {
+     "ref": "NN-PR-206",
+     "observed_at": "2026-11-03T22:05:00Z",
+     "lat": 3.1501,
+     "lon": -4.6399,
+     "mmsi": "563302934",
+     "unit": "Patrol craft P-10",
+     "description": "Boarded and inspected MT Akwa Pearl: papers in order, 14 crew."
+    },
+    {
+     "ref": "NN-PR-207",
+     "observed_at": "2026-11-04T07:41:00Z",
+     "lat": 3.6176,
+     "lon": 6.5097,
+     "mmsi": "657649078",
+     "unit": "Patrol craft P-36",
+     "description": "Boarded and inspected OSV Wouri Crest: papers in order, 15 crew."
+    },
+    {
+     "ref": "NN-PR-208",
+     "observed_at": "2026-11-04T07:22:00Z",
+     "lat": 0.4663,
+     "lon": 9.3405,
+     "mmsi": "610534257",
+     "unit": "Patrol craft P-32",
+     "description": "Boarded and inspected Tug Ocean Harvest: papers in order, 18 crew."
+    },
+    {
+     "ref": "NN-PR-209",
+     "observed_at": "2026-11-04T04:14:00Z",
+     "lat": 3.6683,
+     "lon": 9.2316,
+     "mmsi": "610503930",
+     "unit": "Patrol craft P-16",
+     "description": "Boarded and inspected MV Lagoon Wind: papers in order, 29 crew."
+    },
+    {
+     "ref": "NN-PR-210",
+     "observed_at": "2026-11-04T07:46:00Z",
+     "lat": 3.77,
+     "lon": -4.3351,
+     "mmsi": "256636766",
+     "unit": "Patrol craft P-19",
+     "description": "Boarded and inspected FV Tropic Falcon: papers in order, 27 crew."
+    },
+    {
+     "ref": "NN-PR-211",
+     "observed_at": "2026-11-04T03:12:00Z",
+     "lat": 4.7817,
+     "lon": 5.443,
+     "mmsi": "613164908",
+     "unit": "Patrol craft P-25",
+     "description": "Boarded and inspected MV Harmattan: papers in order, 14 crew."
+    }
+   ]
+  },
+  {
+   "agency": "NIMASA",
+   "kind": "radar_contacts",
+   "channel": "api",
+   "received_at": "2026-11-04T06:10:00Z",
+   "records": [
+    {
+     "ref": "CR-91000",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 6.1616,
+     "lon": 3.6522,
+     "mmsi": "613478917",
+     "length_m": 33,
+     "speed_kn": 3.2,
+     "course": 355,
+     "confidence": 0.8,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-91001",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 6.1688,
+     "lon": 3.6872,
+     "mmsi": "671243176",
+     "length_m": 140,
+     "speed_kn": 0.1,
+     "course": 50,
+     "confidence": 0.81,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-91002",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 6.1724,
+     "lon": 3.7285,
+     "mmsi": "626727435",
+     "length_m": 148,
+     "speed_kn": 0.0,
+     "course": 151,
+     "confidence": 0.86,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-91003",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 6.2162,
+     "lon": 3.6704,
+     "mmsi": "209773669",
+     "length_m": 126,
+     "speed_kn": 0.1,
+     "course": 115,
+     "confidence": 0.77,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-91004",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 6.1602,
+     "lon": 3.5189,
+     "mmsi": "657308441",
+     "length_m": 99,
+     "speed_kn": 0.1,
+     "course": 139,
+     "confidence": 0.82,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-91005",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 6.1367,
+     "lon": 3.5604,
+     "mmsi": "351995239",
+     "length_m": 117,
+     "speed_kn": 0.3,
+     "course": 194,
+     "confidence": 0.81,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-91006",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 6.2182,
+     "lon": 3.4662,
+     "mmsi": "240809774",
+     "length_m": 33,
+     "speed_kn": 2.7,
+     "course": 141,
+     "confidence": 0.89,
+     "sensor": "Lagos coastal radar (trial)"
+    },
+    {
+     "ref": "CR-91007",
+     "observed_at": "2026-11-04T05:45:00Z",
+     "lat": 4.2249,
+     "lon": 7.0037,
+     "mmsi": "671897813",
+     "length_m": 26,
+     "speed_kn": 3.5,
+     "course": 194,
+     "confidence": 0.89,
+     "sensor": "Bonny coastal radar (trial)"
+    }
+   ]
+  },
+  {
+   "agency": "NCS",
+   "kind": "watchlist",
+   "channel": "csv",
+   "filename": "ncs_watchlist_q4.csv",
+   "received_at": "2026-11-02T10:00:00Z",
+   "records": [
+    {
+     "ref": "NCS-WL-300",
+     "mmsi": "477933831",
+     "name": "MV Harbour Breeze",
+     "level": "monitor",
+     "reason": "Under investigation for undeclared fuel cargo (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NCS-WL-301",
+     "mmsi": "668213868",
+     "name": "MV Ada Light",
+     "level": "suspect",
+     "reason": "Cargo manifest discrepancies at the last port call (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NCS-WL-302",
+     "mmsi": "563302934",
+     "name": "MT Akwa Pearl",
+     "level": "suspect",
+     "reason": "Under investigation for undeclared fuel cargo (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NCS-WL-303",
+     "mmsi": "240596102",
+     "name": "MV Bight Horizon",
+     "level": "monitor",
+     "reason": "Customs alert: suspected smuggling of refined products (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NCS-WL-304",
+     "mmsi": "668259448",
+     "name": "MT Bight Express",
+     "level": "monitor",
+     "reason": "Customs alert: suspected smuggling of refined products (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NCS-WL-305",
+     "mmsi": "613627386",
+     "name": "MV Corisco Unity",
+     "level": "monitor",
+     "reason": "Customs alert: suspected smuggling of refined products (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NCS-WL-306",
+     "mmsi": "636185146",
+     "name": "MT Ada Pearl",
+     "level": "monitor",
+     "reason": "Customs alert: suspected smuggling of refined products (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NCS-WL-307",
+     "mmsi": "631143440",
+     "name": "MT Corisco Mariner",
+     "level": "monitor",
+     "reason": "Under investigation for undeclared fuel cargo (simulated).",
+     "valid_until": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "agency": "NIMASA",
+   "kind": "watchlist",
+   "channel": "csv",
+   "filename": "nimasa_watchlist_q4.csv",
+   "received_at": "2026-11-02T10:00:00Z",
+   "records": [
+    {
+     "ref": "NIMASA-WL-300",
+     "mmsi": "477121269",
+     "name": "MV Corisco Spirit",
+     "level": "suspect",
+     "reason": "Detained in 2026 for safety deficiencies (simulated) (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NIMASA-WL-301",
+     "mmsi": "538264340",
+     "name": "MT Ocean Endeavour",
+     "level": "suspect",
+     "reason": "Outstanding levies and sailing without clearance (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NIMASA-WL-302",
+     "mmsi": "563982071",
+     "name": "MV Wouri Hope",
+     "level": "monitor",
+     "reason": "Outstanding levies and sailing without clearance (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "NIMASA-WL-303",
+     "mmsi": "538224714",
+     "name": "MV Atlantic Mariner",
+     "level": "suspect",
+     "reason": "Outstanding levies and sailing without clearance (simulated).",
+     "valid_until": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "agency": "MPOL",
+   "kind": "watchlist",
+   "channel": "csv",
+   "filename": "mpol_watchlist_q4.csv",
+   "received_at": "2026-11-02T10:00:00Z",
+   "records": [
+    {
+     "ref": "MPOL-WL-300",
+     "mmsi": "538766547",
+     "name": "MV Comoe Crest",
+     "level": "monitor",
+     "reason": "Crew member wanted for questioning (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "MPOL-WL-301",
+     "mmsi": "563849440",
+     "name": "MV Harbour Mariner",
+     "level": "monitor",
+     "reason": "Crew member wanted for questioning (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "MPOL-WL-302",
+     "mmsi": "627782675",
+     "name": "MV Niger Light",
+     "level": "monitor",
+     "reason": "Crew member wanted for questioning (simulated).",
+     "valid_until": "2027-12-31"
+    },
+    {
+     "ref": "MPOL-WL-303",
+     "mmsi": "626727435",
+     "name": "MV Ogun Pearl",
+     "level": "suspect",
+     "reason": "Linked to theft of ship's stores in Lagos anchorage (simulated).",
+     "valid_until": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "agency": "MMCC",
+   "kind": "incidents",
+   "channel": "api",
+   "received_at": "2026-11-04T06:30:00Z",
+   "records": [
+    {
+     "observed_at": "2026-10-04T08:25:00Z",
+     "ref": "MMCC-E-7000",
+     "type": "smuggling",
+     "title": "Suspected fuel smuggling by fast boat",
+     "lat": 6.1973,
+     "lon": 2.7743,
+     "place": "22 nm off Cotonou",
+     "description": "Fast boat with drums on deck observed heading towards the creeks."
+    },
+    {
+     "observed_at": "2026-10-14T08:16:00Z",
+     "ref": "MMCC-E-7001",
+     "type": "boarding",
+     "title": "Boarding attempt on a fishing vessel at drifting position",
+     "lat": 4.0595,
+     "lon": 6.512,
+     "place": "38 nm off Bonny",
+     "description": "Persons boarded via the stern; alarm raised and the boarders left. Items missing are being checked."
+    },
+    {
+     "observed_at": "2026-10-30T07:46:00Z",
+     "ref": "MMCC-E-7002",
+     "type": "armed_robbery",
+     "title": "Theft of ship's property from a cargo ship at anchorage",
+     "lat": 3.8907,
+     "lon": 9.6386,
+     "place": "6 nm off Douala",
+     "description": "Robbers boarded at anchor during the night and escaped with ship's stores when spotted by the watch."
+    },
+    {
+     "observed_at": "2026-09-26T11:33:00Z",
+     "ref": "MMCC-E-7003",
+     "type": "boarding",
+     "title": "Boarding attempt on a cargo ship at drifting position",
+     "lat": 4.0773,
+     "lon": 6.421,
+     "place": "42 nm off Bonny",
+     "description": "Persons boarded via the stern; alarm raised and the boarders left. Items missing are being checked."
+    },
+    {
+     "observed_at": "2026-10-17T19:05:00Z",
+     "ref": "MMCC-E-7004",
+     "type": "piracy_attack",
+     "title": "Armed skiff fired on a fishing vessel",
+     "lat": 1.3473,
+     "lon": 6.9428,
+     "place": "62 nm off São Tomé",
+     "description": "Master reported an armed approach. Crew mustered in the citadel; ship increased speed. No injuries reported."
+    },
+    {
+     "observed_at": "2026-10-20T12:40:00Z",
+     "ref": "MMCC-E-7005",
+     "type": "piracy_attack",
+     "title": "Armed skiff fired on a fishing vessel",
+     "lat": 3.4802,
+     "lon": 6.5322,
+     "place": "61 nm off Bonny",
+     "description": "Master reported an armed approach. Crew mustered in the citadel; ship increased speed. No injuries reported."
+    },
+    {
+     "observed_at": "2026-10-20T02:05:00Z",
+     "ref": "MMCC-E-7006",
+     "type": "suspicious_approach",
+     "title": "Fast skiff approached a fishing vessel",
+     "lat": 5.4611,
+     "lon": 1.0553,
+     "place": "42 nm off Lomé",
+     "description": "A small craft approached at speed and turned away when the ship altered course and sounded the alarm."
+    },
+    {
+     "observed_at": "2026-10-18T19:58:00Z",
+     "ref": "MMCC-E-7007",
+     "type": "illegal_fishing",
+     "title": "Fishing inside the inshore exclusion zone",
+     "lat": 4.162,
+     "lon": -2.5058,
+     "place": "63 nm off Takoradi",
+     "description": "Patrol observed fishing activity not matching any licence on record. Catch and nets photographed."
+    },
+    {
+     "observed_at": "2026-10-13T18:20:00Z",
+     "ref": "MMCC-E-7008",
+     "type": "illegal_fishing",
+     "title": "Transshipment of catch at sea",
+     "lat": 4.4164,
+     "lon": 1.8297,
+     "place": "108 nm off Lomé",
+     "description": "Patrol observed fishing activity not matching any licence on record. Catch and nets photographed."
+    },
+    {
+     "observed_at": "2026-10-19T16:40:00Z",
+     "ref": "MMCC-E-7009",
+     "type": "suspicious_approach",
+     "title": "Fast skiff approached a cargo ship",
+     "lat": 3.1478,
+     "lon": 6.5124,
+     "place": "79 nm off Bonny",
+     "description": "A small craft approached at speed and turned away when the ship altered course and sounded the alarm."
+    },
+    {
+     "observed_at": "2026-09-26T01:58:00Z",
+     "ref": "MMCC-E-7010",
+     "type": "piracy_attack",
+     "title": "Attack on a fishing vessel repelled by citadel crew",
+     "lat": 0.239,
+     "lon": 6.2658,
+     "place": "29 nm off São Tomé",
+     "description": "Master reported an armed approach. Crew mustered in the citadel; ship increased speed. No injuries reported."
+    },
+    {
+     "observed_at": "2026-10-30T15:13:00Z",
+     "ref": "MMCC-E-7011",
+     "type": "smuggling",
+     "title": "Suspected fuel smuggling by fast boat",
+     "lat": 6.1453,
+     "lon": 1.5863,
+     "place": "18 nm off Lomé",
+     "description": "Fast boat with drums on deck observed heading towards the creeks."
+    },
+    {
+     "observed_at": "2026-10-20T03:01:00Z",
+     "ref": "MMCC-E-7012",
+     "type": "illegal_fishing",
+     "title": "Fishing inside the inshore exclusion zone",
+     "lat": 4.7301,
+     "lon": 2.2551,
+     "place": "97 nm off Cotonou",
+     "description": "Patrol observed fishing activity not matching any licence on record. Catch and nets photographed."
+    },
+    {
+     "observed_at": "2026-10-20T15:28:00Z",
+     "ref": "MMCC-E-7013",
+     "type": "armed_robbery",
+     "title": "Robbery at anchor: stores stolen from a fishing vessel",
+     "lat": 3.9586,
+     "lon": 9.0309,
+     "place": "19 nm off Malabo",
+     "description": "Robbers boarded at anchor during the night and escaped with ship's stores when spotted by the watch."
+    }
+   ]
+  }
+ ]
+}

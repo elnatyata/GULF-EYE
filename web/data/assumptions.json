@@ -1,0 +1,68 @@
+{
+ "note": "Rules of thumb set by the team. To be confirmed by operators before any real use.",
+ "fusion": {
+  "match_radius_km": 0.5,
+  "max_extrapolate_min": 90,
+  "max_length_mismatch": 0.6,
+  "low_confidence": 0.5,
+  "platform_radius_km": 0.6,
+  "sts_radius_km": 0.8,
+  "gap_minutes": 120,
+  "gap_drift_pct": 0.08,
+  "cluster_radius_km": 25,
+  "corroboration_radius_km": 25,
+  "corroboration_hours": 12,
+  "gap_min_tolerance_km": 1.5
+ },
+ "thresholds": {
+  "patrol": {
+   "max_wave_m": 3.0,
+   "max_wind_kmh": 50
+  },
+  "rhib": {
+   "max_wave_m": 1.8,
+   "max_wind_kmh": 35
+  },
+  "air": {
+   "max_wind_kmh": 55,
+   "max_rain_prob": 80
+  },
+  "sar": {
+   "max_wind_kmh": 30
+  }
+ },
+ "calm_wave_m": 1.5,
+ "rough_season_calm_days": 14,
+ "pattern_band_pct": 25,
+ "response": {
+  "on_scene_h": 2,
+  "reserve_pct": 0.1,
+  "hours_per_asset_per_day": 12
+ },
+ "simulated_notes": [
+  {
+   "date": "2026-11-03",
+   "time": "21:10",
+   "kind": "Radio report",
+   "text": "Fishing vessel reports a fast skiff without lights near the Bonny fairway buoy."
+  },
+  {
+   "date": "2026-11-03",
+   "time": "16:30",
+   "kind": "Port authority",
+   "text": "Lagos anchorage reports two tankers waiting more than 48 hours for a berth."
+  },
+  {
+   "date": "2026-11-02",
+   "time": "09:05",
+   "kind": "Patrol log",
+   "text": "Patrol Boat Charlie completed a routine sweep east of Calabar: nothing to report."
+  },
+  {
+   "date": "2026-11-02",
+   "time": "04:40",
+   "kind": "Machinery",
+   "text": "Patrol Vessel Bravo: port engine cooling fault repaired, fuel top-up still pending."
+  }
+ ]
+}

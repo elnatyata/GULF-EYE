@@ -1,0 +1,111 @@
+Act as a senior full-stack developer, AI/ML engineer, and maritime intelligence systems architect. Your task is to upgrade my existing GulfEye project by integrating all the features described below into the current codebase.
+
+GulfEye is an AI-powered maritime intelligence, surveillance, and anti-piracy platform focused on Nigerian waters and the Gulf of Guinea. Its purpose is to improve maritime security, detect suspicious vessel activities, prevent piracy, protect lives, and address fragmented maritime intelligence across relevant agencies.
+
+IMPORTANT:
+
+- First inspect my existing codebase and understand its architecture.
+- Do not rebuild the project from scratch.
+- Preserve all existing working features, components, pages, and design elements.
+- Integrate the new features into the existing application.
+- Do not create duplicate pages or unnecessary components.
+- Do not leave buttons, navigation links, charts, or dashboard elements non-functional.
+- Implement actual frontend and backend functionality, not just UI mockups.
+
+## FEATURES TO INTEGRATE
+
+1. MARITIME INTELLIGENCE DASHBOARD\
+   Create a centralized dashboard displaying total vessels monitored, active incidents, suspicious vessels, high-risk alerts, recent maritime activities, and maritime security statistics.
+2. INTERACTIVE MARITIME SURVEILLANCE MAP\
+   Create an interactive map covering Nigerian waters and the Gulf of Guinea. Display vessel positions, movement trails, suspicious activities, incident locations, vessel risk levels, and maritime routes. Include search and filtering functionality.
+3. VESSEL TRACKING AND INTELLIGENCE\
+   Provide vessel profiles containing vessel name, IMO/MMSI numbers where available, flag, vessel type, speed, heading, last known location, movement history, destination, available registration information, and associated incidents.
+4. AI-POWERED THREAT DETECTION\
+   Implement machine learning to identify suspicious vessel behaviour, including unusual routes, unexpected stops, loitering, abnormal speed changes, AIS signal disruptions, suspicious vessel rendezvous, and movement patterns in high-risk areas.
+
+Use Python, Pandas, and Scikit-learn where appropriate. Consider Isolation Forest for anomaly detection.
+
+5. INTELLIGENT RISK ASSESSMENT\
+   Create an explainable risk-scoring system that categorizes vessels as Low, Medium, High, or Critical Risk. Assess multiple indicators rather than relying on a single anomaly. Display the risk score, detected anomalies, supporting evidence, reasons for the assessment, and recommended investigation steps.
+6. AUTOMATED EARLY-WARNING ALERTS\
+   Generate alerts when suspicious activity is detected. Each alert should include vessel identification, location, date, time, risk level, detected behaviour, supporting evidence, and recommended actions. Include alert history, filtering, acknowledgement, and status tracking.
+7. MARITIME INCIDENT REPORTING\
+   Allow authorized users to report piracy, sea robbery, suspicious movements, and other maritime incidents. Include incident location, date, time, descriptions, supporting files, associated vessels, and incident status.
+8. MARITIME DATA INTEGRATION\
+   Build a modular system capable of integrating AIS feeds, vessel registration records, satellite observations, radar feeds, maritime incident reports, and other authorized intelligence sources. Use APIs and data adapters.
+9. INTELLIGENCE CORRELATION\
+   Cross-reference vessel identities, movement histories, available records, and reported incidents. Identify connections between suspicious activities and provide a consolidated intelligence view.
+10. INTER-AGENCY INTELLIGENCE SHARING\
+    Create secure collaboration functionality for authorized maritime stakeholders, including NIMASA, Nigerian Navy, and other relevant agencies. Include role-based access, shared alerts, incident reports, vessel intelligence, permissions, and audit logs.
+11. ANALYTICS AND REPORTING\
+    Include charts and reports showing maritime incident trends, suspicious vessel activity, high-risk locations, vessel movement patterns, and alert statistics. Support date filters and report exports.
+12. ENVIRONMENTAL AND SOCIAL IMPACT\
+    Include GulfEye's environmental and social objectives:
+
+- Protection of marine ecosystems.
+- Support for sustainable maritime activities.
+- Protection of fishermen, seafarers, passengers, and coastal communities.
+- Improved maritime safety.
+- Stronger collaboration among security agencies.
+- Protection of maritime trade and coastal livelihoods.
+
+13. SUSTAINABLE DEVELOPMENT GOALS\
+    Include an About/Impact section showing alignment with:
+
+- SDG 14: Life Below Water.
+- SDG 16: Peace, Justice and Strong Institutions.
+- SDG 8: Decent Work and Economic Growth.
+- SDG 9: Industry, Innovation and Infrastructure.
+- SDG 11: Sustainable Cities and Communities.
+
+## DESIGN REQUIREMENTS
+
+Maintain and improve the existing GulfEye interface. Use a professional maritime surveillance aesthetic with deep navy and ocean-blue colours, clean typography, interactive maps, intuitive navigation, clear risk indicators, and responsive layouts.
+
+Integrate the features into the existing navigation and dashboard without disrupting the current design.
+
+## TECHNICAL REQUIREMENTS
+
+Retain the existing technology stack wherever possible. Where necessary, use:
+
+- React/Next.js for the frontend.
+- Tailwind CSS for styling.
+- Python FastAPI for backend services.
+- PostgreSQL/PostGIS for geospatial data.
+- Leaflet or Mapbox for mapping.
+- Python, Pandas, and Scikit-learn for AI/ML.
+- WebSockets for real-time updates.
+
+Ensure all frontend components connect properly to backend services and database models.
+
+## DATA AND SECURITY REQUIREMENTS
+
+If real AIS, satellite, radar, or agency data is unavailable, create realistic simulated datasets for demonstration. Clearly label simulated data and never present it as live intelligence.
+
+Do not claim automatic access to restricted NIMASA or Nigerian Navy databases. Design the platform to support authorized integrations when access becomes available.
+
+AIS signal loss alone must not be treated as proof of piracy. Risk scores must be explainable and used to support human investigation, not automatically declare vessels guilty or trigger enforcement actions.
+
+Implement secure authentication, role-based access control, input validation, API security, error handling, and audit logging.
+
+## IMPLEMENTATION INSTRUCTIONS
+
+1. Inspect the existing codebase and identify all implemented features.
+2. Identify missing functionality and integration requirements.
+3. Create a development plan.
+4. Implement the features directly within the existing project.
+5. Reuse existing components and improve them where necessary.
+6. Connect all frontend pages to functional backend endpoints.
+7. Create or update database models and API routes.
+8. Implement the AI anomaly-detection and risk-scoring engine.
+9. Add sample data for testing and demonstration.
+10. Test the application, fix errors, and ensure existing functionality still works.
+11. Update the README with setup and usage instructions.
+
+Prioritize a working MVP with an interactive maritime map, vessel tracking, AI anomaly detection, explainable risk assessment, security alerts, incident reporting, and dashboard analytics.
+
+Do not stop at planning, descriptions, or visual mockups. Make the actual code changes and integrate the features into the existing GulfEye application.
+
+At completion, summarize what was implemented, what is functional, what uses simulated data, what external integrations are still required, and how to run the application.
+
+Add a phased implementation planAdd testing and acceptance criteria

@@ -1,0 +1,6 @@
+var/
+__pycache__/
+*.pyc
+.pytest_cache/
+web/data/ais_live.json
+web/data/sar_live.json

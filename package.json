@@ -1,0 +1,1 @@
+{"type": "module", "scripts": {"test:js": "node tests/js/check_baseline.mjs && node tests/js/track_check.mjs"}}

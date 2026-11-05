@@ -1,0 +1,7956 @@
+{
+ "note": "SIMULATED for the GulfEye demo. Invented companies, numbers and events. Not intelligence.",
+ "records": [
+  {
+   "vessel_id": "657376044",
+   "mmsi": "657376044",
+   "imo": "3291698",
+   "name": "MT Cobalt",
+   "flag": "Nigeria",
+   "call_sign": "5NL4W",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2017,
+   "gross_tonnage": 48510,
+   "length_m": 210,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-06",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610311211",
+   "mmsi": "610311211",
+   "imo": "5450717",
+   "name": "MV Equator Light",
+   "flag": "Benin",
+   "call_sign": "TY7M7",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2013,
+   "gross_tonnage": 15316,
+   "length_m": 118,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-09",
+    "port": "Onne",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613658626",
+   "mmsi": "613658626",
+   "imo": "7089706",
+   "name": "MT Bight Runner",
+   "flag": "Cameroon",
+   "call_sign": "TJ754",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2007,
+   "gross_tonnage": 59206,
+   "length_m": 232,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-08",
+    "port": "Lagos",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256344367",
+   "mmsi": "256344367",
+   "imo": "9038165",
+   "name": "MT Coastal Hope",
+   "flag": "Malta",
+   "call_sign": "9HV2C",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2010,
+   "gross_tonnage": 50375,
+   "length_m": 214,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-11",
+    "port": "Onne",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610765617",
+   "mmsi": "610765617",
+   "imo": "5641990",
+   "name": "MV Mono Bay",
+   "flag": "Benin",
+   "call_sign": "TYNEF",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 1997,
+   "gross_tonnage": 9719,
+   "length_m": 94,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-19",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256830452",
+   "mmsi": "256830452",
+   "imo": "6264012",
+   "name": "MT Akwa Star",
+   "flag": "Malta",
+   "call_sign": "9HKYA",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2008,
+   "gross_tonnage": 26769,
+   "length_m": 156,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-14",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613759354",
+   "mmsi": "613759354",
+   "imo": "2376910",
+   "name": "MV Savanna",
+   "flag": "Cameroon",
+   "call_sign": "TJAJT",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2017,
+   "gross_tonnage": 13069,
+   "length_m": 109,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-23",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613624538",
+   "mmsi": "613624538",
+   "imo": "5576638",
+   "name": "MV Volta Queen",
+   "flag": "Cameroon",
+   "call_sign": "TJX0F",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 1997,
+   "gross_tonnage": 36837,
+   "length_m": 183,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-26",
+    "port": "Onne",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636806273",
+   "mmsi": "636806273",
+   "imo": "5978874",
+   "name": "MT Atlantic Pearl",
+   "flag": "Liberia",
+   "call_sign": "A8YBR",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2015,
+   "gross_tonnage": 66027,
+   "length_m": 245,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-10",
+    "port": "Douala",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610432513",
+   "mmsi": "610432513",
+   "imo": "3049356",
+   "name": "MT Mariner One",
+   "flag": "Benin",
+   "call_sign": "TYNAH",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2009,
+   "gross_tonnage": 53240,
+   "length_m": 220,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-02",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610451755",
+   "mmsi": "610451755",
+   "imo": "9732553",
+   "name": "MT Silver Wave",
+   "flag": "Benin",
+   "call_sign": "TY0UY",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2004,
+   "gross_tonnage": 24750,
+   "length_m": 150,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-03",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538420447",
+   "mmsi": "538420447",
+   "imo": "3499484",
+   "name": "MV Niger Pearl",
+   "flag": "Marshall Is.",
+   "call_sign": "V75J2",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 1998,
+   "gross_tonnage": 16641,
+   "length_m": 123,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-06",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613110990",
+   "mmsi": "613110990",
+   "imo": "5777464",
+   "name": "MV Port Royal",
+   "flag": "Cameroon",
+   "call_sign": "TJ2JW",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2019,
+   "gross_tonnage": 36837,
+   "length_m": 183,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-10",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657267003",
+   "mmsi": "657267003",
+   "imo": "9333292",
+   "name": "MV Dawn Trader",
+   "flag": "Nigeria",
+   "call_sign": "5NR92",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2001,
+   "gross_tonnage": 33687,
+   "length_m": 175,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-11",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563455657",
+   "mmsi": "563455657",
+   "imo": "8518027",
+   "name": "MV Amber Tide",
+   "flag": "Singapore",
+   "call_sign": "9VMDC",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2005,
+   "gross_tonnage": 19166,
+   "length_m": 132,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-16",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613164908",
+   "mmsi": "613164908",
+   "imo": "6992293",
+   "name": "MV Harmattan",
+   "flag": "Cameroon",
+   "call_sign": "TJJ3W",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2009,
+   "gross_tonnage": 32165,
+   "length_m": 171,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-14",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627634226",
+   "mmsi": "627634226",
+   "imo": "5298169",
+   "name": "MT Ada Foah",
+   "flag": "Ghana",
+   "call_sign": "9G2MK",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2002,
+   "gross_tonnage": 29225,
+   "length_m": 163,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-20",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657899021",
+   "mmsi": "657899021",
+   "imo": "6580337",
+   "name": "MV Atlas Bay",
+   "flag": "Nigeria",
+   "call_sign": "5NSFJ",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2021,
+   "gross_tonnage": 31046,
+   "length_m": 168,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-01",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256291074",
+   "mmsi": "256291074",
+   "imo": "9653836",
+   "name": "MV Eko Carrier",
+   "flag": "Malta",
+   "call_sign": "9H8RC",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2021,
+   "gross_tonnage": 9109,
+   "length_m": 91,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-11",
+    "port": "Lagos",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671153889",
+   "mmsi": "671153889",
+   "imo": "9813632",
+   "name": "MV Coastal Hope",
+   "flag": "Togo",
+   "call_sign": "5V27T",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2012,
+   "gross_tonnage": 23127,
+   "length_m": 145,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-05",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627707788",
+   "mmsi": "627707788",
+   "imo": "9291951",
+   "name": "MV Orion Pass",
+   "flag": "Ghana",
+   "call_sign": "9GG6J",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2002,
+   "gross_tonnage": 10137,
+   "length_m": 96,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-20",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613667161",
+   "mmsi": "613667161",
+   "imo": "4075730",
+   "name": "MV Calabar Dawn",
+   "flag": "Cameroon",
+   "call_sign": "TJBPJ",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2003,
+   "gross_tonnage": 26427,
+   "length_m": 155,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-22",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636939925",
+   "mmsi": "636939925",
+   "imo": "4627222",
+   "name": "MV Ocean Pride",
+   "flag": "Liberia",
+   "call_sign": "A8GBD",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2019,
+   "gross_tonnage": 19751,
+   "length_m": 134,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-20",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563452857",
+   "mmsi": "563452857",
+   "imo": "2214318",
+   "name": "MT Gulf Trader",
+   "flag": "Singapore",
+   "call_sign": "9V817",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2017,
+   "gross_tonnage": 50847,
+   "length_m": 215,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-18",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256479890",
+   "mmsi": "256479890",
+   "imo": "9703710",
+   "name": "MV Bonga Supply",
+   "flag": "Malta",
+   "call_sign": "9HGZ5",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 1996,
+   "gross_tonnage": 33687,
+   "length_m": 175,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-06",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657894027",
+   "mmsi": "657894027",
+   "imo": "4910760",
+   "name": "MV Obalende",
+   "flag": "Nigeria",
+   "call_sign": "5NWEK",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2004,
+   "gross_tonnage": 11669,
+   "length_m": 103,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-15",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636350449",
+   "mmsi": "636350449",
+   "imo": "4170425",
+   "name": "MV Ocean Swift",
+   "flag": "Liberia",
+   "call_sign": "A8USK",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2015,
+   "gross_tonnage": 17741,
+   "length_m": 127,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-06",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563805645",
+   "mmsi": "563805645",
+   "imo": "6678744",
+   "name": "MV Eastern Light",
+   "flag": "Singapore",
+   "call_sign": "9VZLM",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2012,
+   "gross_tonnage": 21560,
+   "length_m": 140,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-27",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636121065",
+   "mmsi": "636121065",
+   "imo": "2007571",
+   "name": "MV Trident",
+   "flag": "Liberia",
+   "call_sign": "A8P06",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 1997,
+   "gross_tonnage": 15316,
+   "length_m": 118,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-12",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256859013",
+   "mmsi": "256859013",
+   "imo": "1371171",
+   "name": "MV Ibom Pride",
+   "flag": "Malta",
+   "call_sign": "9HXU5",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2012,
+   "gross_tonnage": 21253,
+   "length_m": 139,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-15",
+    "port": "Lomé",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671856089",
+   "mmsi": "671856089",
+   "imo": "4291205",
+   "name": "MV Sahel Wind",
+   "flag": "Togo",
+   "call_sign": "5VL4W",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2010,
+   "gross_tonnage": 29225,
+   "length_m": 163,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-19",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610640183",
+   "mmsi": "610640183",
+   "imo": "6882084",
+   "name": "MV Sea Falcon",
+   "flag": "Benin",
+   "call_sign": "TYR0Y",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2008,
+   "gross_tonnage": 17741,
+   "length_m": 127,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-04",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351590816",
+   "mmsi": "351590816",
+   "imo": "2985644",
+   "name": "MT Warri Belle",
+   "flag": "Panama",
+   "call_sign": "3E09J",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2009,
+   "gross_tonnage": 51321,
+   "length_m": 216,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-15",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657226953",
+   "mmsi": "657226953",
+   "imo": "3468760",
+   "name": "OSV Savanna",
+   "flag": "Nigeria",
+   "call_sign": "5NSBE",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2006,
+   "gross_tonnage": 3465,
+   "length_m": 76,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-06",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657357507",
+   "mmsi": "657357507",
+   "imo": "3329237",
+   "name": "OSV Ocean Swift",
+   "flag": "Nigeria",
+   "call_sign": "5NPG3",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2006,
+   "gross_tonnage": 2232,
+   "length_m": 61,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-22",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613710614",
+   "mmsi": "613710614",
+   "imo": "3875444",
+   "name": "OSV Orion Pass",
+   "flag": "Cameroon",
+   "call_sign": "TJAPH",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 1996,
+   "gross_tonnage": 3024,
+   "length_m": 71,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-01",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627643736",
+   "mmsi": "627643736",
+   "imo": "8963454",
+   "name": "OSV Lekki Tide",
+   "flag": "Ghana",
+   "call_sign": "9G2PJ",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 1998,
+   "gross_tonnage": 2693,
+   "length_m": 67,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-23",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351299612",
+   "mmsi": "351299612",
+   "imo": "6862761",
+   "name": "FV Blue Horizon",
+   "flag": "Panama",
+   "call_sign": "3E787",
+   "owner": "Blue Horizon Fishing Co.",
+   "manager": "Blue Horizon Fishing Co.",
+   "built": 2004,
+   "gross_tonnage": 375,
+   "length_m": 25,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-03",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627182298",
+   "mmsi": "627182298",
+   "imo": "3407431",
+   "name": "FV Anchor Point",
+   "flag": "Ghana",
+   "call_sign": "9G6HP",
+   "owner": "Anchor Point Fishing Co.",
+   "manager": "Anchor Point Fishing Co.",
+   "built": 2005,
+   "gross_tonnage": 735,
+   "length_m": 35,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-27",
+    "port": "Onne",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563404200",
+   "mmsi": "563404200",
+   "imo": "6473792",
+   "name": "FV Dawn Trader",
+   "flag": "Singapore",
+   "call_sign": "9VST2",
+   "owner": "Dawn Trader Fishing Co.",
+   "manager": "Dawn Trader Fishing Co.",
+   "built": 2018,
+   "gross_tonnage": 576,
+   "length_m": 31,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-12",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627136582",
+   "mmsi": "627136582",
+   "imo": null,
+   "name": "FV Sapele",
+   "flag": "Ghana",
+   "call_sign": "9GBGV",
+   "owner": "Sapele Fishing Co.",
+   "manager": "Sapele Fishing Co.",
+   "built": 2010,
+   "gross_tonnage": 264,
+   "length_m": 21,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2018
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671254808",
+   "mmsi": "671254808",
+   "imo": "4068919",
+   "name": "FV Badagry Sun",
+   "flag": "Togo",
+   "call_sign": "5VBJG",
+   "owner": "Badagry Sun Fishing Co.",
+   "manager": "Badagry Sun Fishing Co.",
+   "built": 2009,
+   "gross_tonnage": 614,
+   "length_m": 32,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-06",
+    "port": "Tema",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610438987",
+   "mmsi": "610438987",
+   "imo": "3606300",
+   "name": "FV Red Lantern",
+   "flag": "Togo",
+   "call_sign": "TYDZ4",
+   "owner": "Red Lantern Fishing Co.",
+   "manager": "Red Lantern Fishing Co.",
+   "built": 2013,
+   "gross_tonnage": 470,
+   "length_m": 28,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-22",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": "Registered flag (Togo) differs from the flag broadcast on AIS (Benin).",
+   "former_names": []
+  },
+  {
+   "vessel_id": "613478917",
+   "mmsi": "613478917",
+   "imo": "2541694",
+   "name": "Tug Ocean Pride",
+   "flag": "Cameroon",
+   "call_sign": "TJ9SS",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2011,
+   "gross_tonnage": 693,
+   "length_m": 34,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-01",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "667843800",
+   "mmsi": "667843800",
+   "imo": "6539534",
+   "name": "MV Sea Harmony",
+   "flag": "Sierra Leone",
+   "call_sign": "9LX8U",
+   "owner": "Bight Star Shipping Ltd",
+   "manager": "Bight Star Shipping Ltd",
+   "built": 2014,
+   "gross_tonnage": 4228,
+   "length_m": 62,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Comoros",
+     "from": 2022
+    },
+    {
+     "flag": "Sierra Leone",
+     "from": 2025
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-18",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351559081",
+   "mmsi": "351559081",
+   "imo": "2394211",
+   "name": "MT Gulf Voyager",
+   "flag": "Panama",
+   "call_sign": "3E64S",
+   "owner": "Bight Star Shipping Ltd",
+   "manager": "Bight Star Shipping Ltd",
+   "built": 1997,
+   "gross_tonnage": 39710,
+   "length_m": 190,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2021
+    },
+    {
+     "flag": "Comoros",
+     "from": 2024
+    },
+    {
+     "flag": "Panama",
+     "from": 2025
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-11",
+    "port": "Lomé",
+    "deficiencies": 9
+   },
+   "watchlist": "Named in a simulated 2026 regional bulletin on illegal bunkering (demo data).",
+   "notes": null,
+   "former_names": [
+    "Sea Pearl II",
+    "Bight Star 3"
+   ]
+  },
+  {
+   "vessel_id": "627331952",
+   "mmsi": "627331952",
+   "imo": "5506982",
+   "name": "FV Ocean Hope",
+   "flag": "Ghana",
+   "call_sign": "9GSXK",
+   "owner": "Ocean Hope Fishing Co.",
+   "manager": "Ocean Hope Fishing Co.",
+   "built": 2019,
+   "gross_tonnage": 614,
+   "length_m": 32,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-08",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": "Fishing licence for the Ghana EEZ only (simulated).",
+   "former_names": []
+  },
+  {
+   "vessel_id": "636544257",
+   "mmsi": "636544257",
+   "imo": "2201579",
+   "name": "MV Harbour Swift",
+   "flag": "Liberia",
+   "call_sign": "A81SE",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2004,
+   "gross_tonnage": 18022,
+   "length_m": 128,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-20",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256745901",
+   "mmsi": "256745901",
+   "imo": "8816716",
+   "name": "MT Kribi Pride",
+   "flag": "Malta",
+   "call_sign": "9HZTH",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2004,
+   "gross_tonnage": 36037,
+   "length_m": 181,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-06",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477333816",
+   "mmsi": "477333816",
+   "imo": "1644633",
+   "name": "MV Mono Star",
+   "flag": "Hong Kong",
+   "call_sign": "XX2ZC",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2003,
+   "gross_tonnage": 28160,
+   "length_m": 160,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-22",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538264340",
+   "mmsi": "538264340",
+   "imo": "5239163",
+   "name": "MT Ocean Endeavour",
+   "flag": "Marshall Is.",
+   "call_sign": "V70DR",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2019,
+   "gross_tonnage": 46227,
+   "length_m": 205,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-24",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240596102",
+   "mmsi": "240596102",
+   "imo": "1617886",
+   "name": "MV Bight Horizon",
+   "flag": "Greece",
+   "call_sign": "XXF2K",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2014,
+   "gross_tonnage": 29585,
+   "length_m": 164,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-25",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477941623",
+   "mmsi": "477941623",
+   "imo": "4683989",
+   "name": "MV Mono Mariner",
+   "flag": "Hong Kong",
+   "call_sign": "XXCJR",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2019,
+   "gross_tonnage": 23127,
+   "length_m": 145,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-12",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610752969",
+   "mmsi": "610752969",
+   "imo": "5832161",
+   "name": "MV West Queen",
+   "flag": "Benin",
+   "call_sign": "TYRGH",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2015,
+   "gross_tonnage": 21560,
+   "length_m": 140,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-07",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563826507",
+   "mmsi": "563826507",
+   "imo": "5419622",
+   "name": "MV Ogooue Trader",
+   "flag": "Singapore",
+   "call_sign": "9VMNY",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2011,
+   "gross_tonnage": 12593,
+   "length_m": 107,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-15",
+    "port": "Lomé",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631700360",
+   "mmsi": "631700360",
+   "imo": "6631784",
+   "name": "MV Kribi Legacy",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XX2C1",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2019,
+   "gross_tonnage": 28513,
+   "length_m": 161,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-06",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627215588",
+   "mmsi": "627215588",
+   "imo": "9864136",
+   "name": "MT Zenith Venture",
+   "flag": "Ghana",
+   "call_sign": "9G6UF",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 1997,
+   "gross_tonnage": 65489,
+   "length_m": 244,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-26",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257452876",
+   "mmsi": "257452876",
+   "imo": "6540703",
+   "name": "MV Sassandra Dawn",
+   "flag": "Norway",
+   "call_sign": "XXLUC",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2020,
+   "gross_tonnage": 15316,
+   "length_m": 118,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-04",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657321067",
+   "mmsi": "657321067",
+   "imo": "4920181",
+   "name": "MT Sassandra Pride",
+   "flag": "Nigeria",
+   "call_sign": "5NKH3",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 1996,
+   "gross_tonnage": 61785,
+   "length_m": 237,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-03",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626281968",
+   "mmsi": "626281968",
+   "imo": "8183315",
+   "name": "MV Ogun Endeavour",
+   "flag": "Gabon",
+   "call_sign": "XXTF8",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2006,
+   "gross_tonnage": 18877,
+   "length_m": 131,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-10",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563549075",
+   "mmsi": "563549075",
+   "imo": "3376448",
+   "name": "MV Corisco Sun",
+   "flag": "Singapore",
+   "call_sign": "9VW3N",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2021,
+   "gross_tonnage": 22180,
+   "length_m": 142,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-03",
+    "port": "Lomé",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627903307",
+   "mmsi": "627903307",
+   "imo": "2734772",
+   "name": "MT Tropic Glory",
+   "flag": "Ghana",
+   "call_sign": "9GMLJ",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2000,
+   "gross_tonnage": 35245,
+   "length_m": 179,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-05",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477405565",
+   "mmsi": "477405565",
+   "imo": "5063447",
+   "name": "MV Comoe Horizon",
+   "flag": "Hong Kong",
+   "call_sign": "XXTPH",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2007,
+   "gross_tonnage": 29225,
+   "length_m": 163,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-23",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256309367",
+   "mmsi": "256309367",
+   "imo": "2407800",
+   "name": "MT Benue Hope",
+   "flag": "Malta",
+   "call_sign": "9HJJU",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2008,
+   "gross_tonnage": 60747,
+   "length_m": 235,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-09",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538932741",
+   "mmsi": "538932741",
+   "imo": "8348006",
+   "name": "MT West Trader",
+   "flag": "Marshall Is.",
+   "call_sign": "V73Y8",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 1998,
+   "gross_tonnage": 56681,
+   "length_m": 227,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-23",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636633680",
+   "mmsi": "636633680",
+   "imo": "8539954",
+   "name": "MV Niger Endeavour",
+   "flag": "Liberia",
+   "call_sign": "A8XZZ",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2008,
+   "gross_tonnage": 16913,
+   "length_m": 124,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-12",
+    "port": "Onne",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626829234",
+   "mmsi": "626829234",
+   "imo": "8112043",
+   "name": "MV Comoe Endeavour",
+   "flag": "Gabon",
+   "call_sign": "XX6CV",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2006,
+   "gross_tonnage": 11669,
+   "length_m": 103,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-23",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613888869",
+   "mmsi": "613888869",
+   "imo": "5444196",
+   "name": "MV Niger Swift",
+   "flag": "Cameroon",
+   "call_sign": "TJ3M6",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 1999,
+   "gross_tonnage": 36037,
+   "length_m": 181,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-13",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538378071",
+   "mmsi": "538378071",
+   "imo": "8678994",
+   "name": "MT Comoe Dawn",
+   "flag": "Marshall Is.",
+   "call_sign": "V7UEP",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2007,
+   "gross_tonnage": 66567,
+   "length_m": 246,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-26",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477880631",
+   "mmsi": "477880631",
+   "imo": "5094135",
+   "name": "MV Ogun Unity",
+   "flag": "Hong Kong",
+   "call_sign": "XXRB6",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2010,
+   "gross_tonnage": 31046,
+   "length_m": 168,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-22",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631143440",
+   "mmsi": "631143440",
+   "imo": "3113573",
+   "name": "MT Corisco Mariner",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXUGK",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2001,
+   "gross_tonnage": 31046,
+   "length_m": 168,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-23",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613938432",
+   "mmsi": "613938432",
+   "imo": "5085809",
+   "name": "MV Atlantic Spirit",
+   "flag": "Cameroon",
+   "call_sign": "TJGMB",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 1998,
+   "gross_tonnage": 13553,
+   "length_m": 111,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-07",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351812987",
+   "mmsi": "351812987",
+   "imo": "7989384",
+   "name": "MT Bight Voyager",
+   "flag": "Panama",
+   "call_sign": "3EP7U",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2006,
+   "gross_tonnage": 26769,
+   "length_m": 156,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-11",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351860260",
+   "mmsi": "351860260",
+   "imo": "2864060",
+   "name": "MV Comoe Promise",
+   "flag": "Panama",
+   "call_sign": "3E6X2",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2015,
+   "gross_tonnage": 36837,
+   "length_m": 183,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-08",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563814722",
+   "mmsi": "563814722",
+   "imo": "6304264",
+   "name": "MV Kribi Venture",
+   "flag": "Singapore",
+   "call_sign": "9VRAA",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2004,
+   "gross_tonnage": 11221,
+   "length_m": 101,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-03",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209955922",
+   "mmsi": "209955922",
+   "imo": "2195964",
+   "name": "MT Keta Navigator",
+   "flag": "Cyprus",
+   "call_sign": "XX535",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2007,
+   "gross_tonnage": 34461,
+   "length_m": 177,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-06",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351998986",
+   "mmsi": "351998986",
+   "imo": "5085940",
+   "name": "MV Delta Light",
+   "flag": "Panama",
+   "call_sign": "3E3R4",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2000,
+   "gross_tonnage": 22493,
+   "length_m": 143,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-25",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209520352",
+   "mmsi": "209520352",
+   "imo": "2553726",
+   "name": "MV Ada Breeze",
+   "flag": "Cyprus",
+   "call_sign": "XX18D",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2018,
+   "gross_tonnage": 17741,
+   "length_m": 127,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-10",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563241748",
+   "mmsi": "563241748",
+   "imo": "9617650",
+   "name": "MT Ogun Harvest",
+   "flag": "Singapore",
+   "call_sign": "9VBBV",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2012,
+   "gross_tonnage": 32921,
+   "length_m": 173,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-10",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244140034",
+   "mmsi": "244140034",
+   "imo": "8550207",
+   "name": "MV Ada Runner",
+   "flag": "Netherlands",
+   "call_sign": "XXU24",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2010,
+   "gross_tonnage": 37241,
+   "length_m": 184,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-21",
+    "port": "Tema",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209116551",
+   "mmsi": "209116551",
+   "imo": "2682955",
+   "name": "MT Ocean Navigator",
+   "flag": "Cyprus",
+   "call_sign": "XXXW9",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 1999,
+   "gross_tonnage": 46679,
+   "length_m": 206,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-12",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256639683",
+   "mmsi": "256639683",
+   "imo": "8633413",
+   "name": "MV Bonga Trader",
+   "flag": "Malta",
+   "call_sign": "9H1GL",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 1996,
+   "gross_tonnage": 37241,
+   "length_m": 184,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-24",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636923302",
+   "mmsi": "636923302",
+   "imo": "1804441",
+   "name": "MV Royal Star",
+   "flag": "Liberia",
+   "call_sign": "A8KVY",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2000,
+   "gross_tonnage": 16372,
+   "length_m": 122,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-04",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538766547",
+   "mmsi": "538766547",
+   "imo": "8630631",
+   "name": "MV Comoe Crest",
+   "flag": "Marshall Is.",
+   "call_sign": "V7JF1",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2002,
+   "gross_tonnage": 35245,
+   "length_m": 179,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-05",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610103651",
+   "mmsi": "610103651",
+   "imo": "5929847",
+   "name": "MT Bonga Star",
+   "flag": "Benin",
+   "call_sign": "TYPW1",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2008,
+   "gross_tonnage": 29225,
+   "length_m": 163,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-19",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563849440",
+   "mmsi": "563849440",
+   "imo": "3207740",
+   "name": "MV Harbour Mariner",
+   "flag": "Singapore",
+   "call_sign": "9VHWP",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2016,
+   "gross_tonnage": 26427,
+   "length_m": 155,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-18",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244375143",
+   "mmsi": "244375143",
+   "imo": "5666005",
+   "name": "MV Cape Mariner",
+   "flag": "Netherlands",
+   "call_sign": "XXTLC",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2021,
+   "gross_tonnage": 13798,
+   "length_m": 112,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-21",
+    "port": "Lagos",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613447060",
+   "mmsi": "613447060",
+   "imo": "4733863",
+   "name": "MV Elmina Dawn",
+   "flag": "Cameroon",
+   "call_sign": "TJBNB",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2002,
+   "gross_tonnage": 34461,
+   "length_m": 177,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-06",
+    "port": "Lomé",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671243176",
+   "mmsi": "671243176",
+   "imo": "9000625",
+   "name": "MV Coral Endeavour",
+   "flag": "Togo",
+   "call_sign": "5VX65",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2011,
+   "gross_tonnage": 19751,
+   "length_m": 134,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-20",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626727435",
+   "mmsi": "626727435",
+   "imo": "9398539",
+   "name": "MV Ogun Pearl",
+   "flag": "Gabon",
+   "call_sign": "XX3WH",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2006,
+   "gross_tonnage": 23769,
+   "length_m": 147,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-11",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626281346",
+   "mmsi": "626281346",
+   "imo": "5776111",
+   "name": "MV Kribi Pearl",
+   "flag": "Gabon",
+   "call_sign": "XXG1X",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2000,
+   "gross_tonnage": 14801,
+   "length_m": 116,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-06",
+    "port": "Tema",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636519323",
+   "mmsi": "636519323",
+   "imo": "2739942",
+   "name": "MV Ocean Runner",
+   "flag": "Liberia",
+   "call_sign": "A8LH2",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2013,
+   "gross_tonnage": 33303,
+   "length_m": 174,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-07",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351527935",
+   "mmsi": "351527935",
+   "imo": "9658202",
+   "name": "MV Coral Star",
+   "flag": "Panama",
+   "call_sign": "3EM9U",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2012,
+   "gross_tonnage": 37241,
+   "length_m": 184,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-12",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209455241",
+   "mmsi": "209455241",
+   "imo": "2951033",
+   "name": "MV Wouri Star",
+   "flag": "Cyprus",
+   "call_sign": "XX61S",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2003,
+   "gross_tonnage": 11000,
+   "length_m": 100,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-16",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668213868",
+   "mmsi": "668213868",
+   "imo": "9247730",
+   "name": "MV Ada Light",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XX3L7",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2019,
+   "gross_tonnage": 15316,
+   "length_m": 118,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-24",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209773669",
+   "mmsi": "209773669",
+   "imo": "5890060",
+   "name": "MV Ogooue Express",
+   "flag": "Cyprus",
+   "call_sign": "XXTYJ",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2006,
+   "gross_tonnage": 16913,
+   "length_m": 124,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-24",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657308441",
+   "mmsi": "657308441",
+   "imo": "9990337",
+   "name": "MV Bight Spirit",
+   "flag": "Nigeria",
+   "call_sign": "5N8BT",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2021,
+   "gross_tonnage": 9927,
+   "length_m": 95,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-07",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351995239",
+   "mmsi": "351995239",
+   "imo": "6387383",
+   "name": "MV Benue Express",
+   "flag": "Panama",
+   "call_sign": "3EBHC",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 1997,
+   "gross_tonnage": 13553,
+   "length_m": 111,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-25",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636185146",
+   "mmsi": "636185146",
+   "imo": "7802017",
+   "name": "MT Ada Pearl",
+   "flag": "Liberia",
+   "call_sign": "A8MDG",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2009,
+   "gross_tonnage": 40550,
+   "length_m": 192,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-01",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563584639",
+   "mmsi": "563584639",
+   "imo": "1767526",
+   "name": "MV Wouri Sun",
+   "flag": "Singapore",
+   "call_sign": "9V26U",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2013,
+   "gross_tonnage": 36436,
+   "length_m": 182,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-13",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538224714",
+   "mmsi": "538224714",
+   "imo": "1853557",
+   "name": "MV Atlantic Mariner",
+   "flag": "Marshall Is.",
+   "call_sign": "V717R",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2013,
+   "gross_tonnage": 12593,
+   "length_m": 107,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-22",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631457264",
+   "mmsi": "631457264",
+   "imo": "2293986",
+   "name": "MV Elmina Carrier",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXDVZ",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2020,
+   "gross_tonnage": 15057,
+   "length_m": 117,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-15",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477866509",
+   "mmsi": "477866509",
+   "imo": "3990218",
+   "name": "MV Ogooue Glory",
+   "flag": "Hong Kong",
+   "call_sign": "XXFVJ",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2018,
+   "gross_tonnage": 10349,
+   "length_m": 97,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-07",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563982071",
+   "mmsi": "563982071",
+   "imo": "1976579",
+   "name": "MV Wouri Hope",
+   "flag": "Singapore",
+   "call_sign": "9VXBU",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2016,
+   "gross_tonnage": 25749,
+   "length_m": 153,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-17",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627989008",
+   "mmsi": "627989008",
+   "imo": "9428841",
+   "name": "MV Eko Pearl",
+   "flag": "Ghana",
+   "call_sign": "9GZVC",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2016,
+   "gross_tonnage": 35245,
+   "length_m": 179,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-07",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627226296",
+   "mmsi": "627226296",
+   "imo": "6422676",
+   "name": "MT Sassandra Hope",
+   "flag": "Ghana",
+   "call_sign": "9GCK0",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2001,
+   "gross_tonnage": 36436,
+   "length_m": 182,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-10",
+    "port": "Onne",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671486530",
+   "mmsi": "671486530",
+   "imo": "1501491",
+   "name": "MV Ocean Falcon",
+   "flag": "Togo",
+   "call_sign": "5VCD0",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2012,
+   "gross_tonnage": 8910,
+   "length_m": 90,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-03",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244116815",
+   "mmsi": "244116815",
+   "imo": "7985003",
+   "name": "MV Sahel Unity",
+   "flag": "Netherlands",
+   "call_sign": "XX5JN",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 1999,
+   "gross_tonnage": 24750,
+   "length_m": 150,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-04",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668853294",
+   "mmsi": "668853294",
+   "imo": "5430808",
+   "name": "MV Akwa Light",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XXP2H",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2003,
+   "gross_tonnage": 38055,
+   "length_m": 186,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-07",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257962329",
+   "mmsi": "257962329",
+   "imo": "3806209",
+   "name": "MT Kribi Wind",
+   "flag": "Norway",
+   "call_sign": "XXMGE",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2015,
+   "gross_tonnage": 29585,
+   "length_m": 164,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-01",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538534472",
+   "mmsi": "538534472",
+   "imo": "3040659",
+   "name": "MV West Pride",
+   "flag": "Marshall Is.",
+   "call_sign": "V7J4B",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2019,
+   "gross_tonnage": 27809,
+   "length_m": 159,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-01",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668433025",
+   "mmsi": "668433025",
+   "imo": "8002456",
+   "name": "MT Cape Swift",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XX35V",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 1997,
+   "gross_tonnage": 43124,
+   "length_m": 198,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-20",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626380622",
+   "mmsi": "626380622",
+   "imo": "6024541",
+   "name": "MV Eko Endeavour",
+   "flag": "Gabon",
+   "call_sign": "XXA4X",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2010,
+   "gross_tonnage": 13069,
+   "length_m": 109,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-27",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244370644",
+   "mmsi": "244370644",
+   "imo": "1708609",
+   "name": "MV Cape Wind",
+   "flag": "Netherlands",
+   "call_sign": "XXKXF",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 1999,
+   "gross_tonnage": 32921,
+   "length_m": 173,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-23",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209869275",
+   "mmsi": "209869275",
+   "imo": "4937005",
+   "name": "MV Bandama Legacy",
+   "flag": "Cyprus",
+   "call_sign": "XXYX3",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2008,
+   "gross_tonnage": 23769,
+   "length_m": 147,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-22",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657119547",
+   "mmsi": "657119547",
+   "imo": "7593991",
+   "name": "MT Bandama Harvest",
+   "flag": "Nigeria",
+   "call_sign": "5NVK0",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2009,
+   "gross_tonnage": 31046,
+   "length_m": 168,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-05",
+    "port": "Lomé",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563435408",
+   "mmsi": "563435408",
+   "imo": "3253282",
+   "name": "MT Bandama Falcon",
+   "flag": "Singapore",
+   "call_sign": "9V5XL",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2003,
+   "gross_tonnage": 65489,
+   "length_m": 244,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-10",
+    "port": "Douala",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619532056",
+   "mmsi": "619532056",
+   "imo": "4255809",
+   "name": "MV Keta Bay",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XXCTE",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2013,
+   "gross_tonnage": 10349,
+   "length_m": 97,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-22",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563722216",
+   "mmsi": "563722216",
+   "imo": "6381535",
+   "name": "MT Kribi Dawn",
+   "flag": "Singapore",
+   "call_sign": "9V2XK",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2000,
+   "gross_tonnage": 53240,
+   "length_m": 220,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-12",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626213819",
+   "mmsi": "626213819",
+   "imo": "9954711",
+   "name": "MV Ogooue Legacy",
+   "flag": "Gabon",
+   "call_sign": "XX7MM",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2003,
+   "gross_tonnage": 36436,
+   "length_m": 182,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-27",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636747718",
+   "mmsi": "636747718",
+   "imo": "2350992",
+   "name": "MV Corisco Swift",
+   "flag": "Liberia",
+   "call_sign": "A8MC7",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2012,
+   "gross_tonnage": 25749,
+   "length_m": 153,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-13",
+    "port": "Lomé",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671920871",
+   "mmsi": "671920871",
+   "imo": "3841534",
+   "name": "MV Tropic Express",
+   "flag": "Togo",
+   "call_sign": "5VYJK",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2001,
+   "gross_tonnage": 9109,
+   "length_m": 91,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-03",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477121269",
+   "mmsi": "477121269",
+   "imo": "5520316",
+   "name": "MV Corisco Spirit",
+   "flag": "Hong Kong",
+   "call_sign": "XXAHY",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 1997,
+   "gross_tonnage": 23447,
+   "length_m": 146,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-11",
+    "port": "Tema",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636816414",
+   "mmsi": "636816414",
+   "imo": "9647033",
+   "name": "MV Kribi Breeze",
+   "flag": "Liberia",
+   "call_sign": "A8WL2",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2005,
+   "gross_tonnage": 31046,
+   "length_m": 168,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-02",
+    "port": "Lagos",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209467563",
+   "mmsi": "209467563",
+   "imo": "9834246",
+   "name": "MT Gulf Bay",
+   "flag": "Cyprus",
+   "call_sign": "XXB5P",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2002,
+   "gross_tonnage": 29585,
+   "length_m": 164,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-06",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477203954",
+   "mmsi": "477203954",
+   "imo": "8020032",
+   "name": "MT Ada Hope",
+   "flag": "Hong Kong",
+   "call_sign": "XX6K3",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2011,
+   "gross_tonnage": 32921,
+   "length_m": 173,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-18",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668314143",
+   "mmsi": "668314143",
+   "imo": "6880127",
+   "name": "MT Kribi Harvest",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XXZ8Y",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2019,
+   "gross_tonnage": 67654,
+   "length_m": 248,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-23",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351286806",
+   "mmsi": "351286806",
+   "imo": "7355040",
+   "name": "MV Comoe Queen",
+   "flag": "Panama",
+   "call_sign": "3EJ3P",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2014,
+   "gross_tonnage": 24750,
+   "length_m": 150,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-06",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657894497",
+   "mmsi": "657894497",
+   "imo": "9878967",
+   "name": "MV Zenith Bay",
+   "flag": "Nigeria",
+   "call_sign": "5NZFN",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2008,
+   "gross_tonnage": 9927,
+   "length_m": 95,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-17",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538878636",
+   "mmsi": "538878636",
+   "imo": "5677860",
+   "name": "MT Eko Crest",
+   "flag": "Marshall Is.",
+   "call_sign": "V7A7M",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2020,
+   "gross_tonnage": 47590,
+   "length_m": 208,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-02",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244618562",
+   "mmsi": "244618562",
+   "imo": "6745157",
+   "name": "MT Lagoon Glory",
+   "flag": "Netherlands",
+   "call_sign": "XXP9V",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 1998,
+   "gross_tonnage": 40129,
+   "length_m": 191,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-25",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671338560",
+   "mmsi": "671338560",
+   "imo": "1672068",
+   "name": "MT Ogun Falcon",
+   "flag": "Togo",
+   "call_sign": "5V0EE",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2016,
+   "gross_tonnage": 27809,
+   "length_m": 159,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-18",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257857555",
+   "mmsi": "257857555",
+   "imo": "4205725",
+   "name": "MT Sassandra Mariner",
+   "flag": "Norway",
+   "call_sign": "XXTB1",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2012,
+   "gross_tonnage": 37647,
+   "length_m": 185,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-02",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626425110",
+   "mmsi": "626425110",
+   "imo": "3960897",
+   "name": "MV West Promise",
+   "flag": "Gabon",
+   "call_sign": "XXM2D",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2004,
+   "gross_tonnage": 21869,
+   "length_m": 141,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-15",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538900934",
+   "mmsi": "538900934",
+   "imo": "7294612",
+   "name": "MV Wouri Spirit",
+   "flag": "Marshall Is.",
+   "call_sign": "V7EYF",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 1997,
+   "gross_tonnage": 34852,
+   "length_m": 178,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-01",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240478242",
+   "mmsi": "240478242",
+   "imo": "3700704",
+   "name": "MV Zenith Harvest",
+   "flag": "Greece",
+   "call_sign": "XXM0F",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 1999,
+   "gross_tonnage": 18305,
+   "length_m": 129,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-02",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627782675",
+   "mmsi": "627782675",
+   "imo": "9944936",
+   "name": "MV Niger Light",
+   "flag": "Ghana",
+   "call_sign": "9G5HV",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2010,
+   "gross_tonnage": 11221,
+   "length_m": 101,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-18",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610600041",
+   "mmsi": "610600041",
+   "imo": "1723855",
+   "name": "MV Akwa Mariner",
+   "flag": "Benin",
+   "call_sign": "TY78S",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2021,
+   "gross_tonnage": 9927,
+   "length_m": 95,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-13",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668706060",
+   "mmsi": "668706060",
+   "imo": "2909066",
+   "name": "MV Kribi Runner",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XXZHY",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2015,
+   "gross_tonnage": 15316,
+   "length_m": 118,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-14",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613101904",
+   "mmsi": "613101904",
+   "imo": "6545193",
+   "name": "MV Ivory Endeavour",
+   "flag": "Cameroon",
+   "call_sign": "TJ96A",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2005,
+   "gross_tonnage": 38055,
+   "length_m": 186,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-21",
+    "port": "Lomé",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240576123",
+   "mmsi": "240576123",
+   "imo": "8014306",
+   "name": "MV Royal Dawn",
+   "flag": "Greece",
+   "call_sign": "XXSY2",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2002,
+   "gross_tonnage": 27113,
+   "length_m": 157,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-15",
+    "port": "Lomé",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256638853",
+   "mmsi": "256638853",
+   "imo": "6135326",
+   "name": "MV Delta Promise",
+   "flag": "Malta",
+   "call_sign": "9HEFG",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2014,
+   "gross_tonnage": 11669,
+   "length_m": 103,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-09",
+    "port": "Lagos",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626406409",
+   "mmsi": "626406409",
+   "imo": "4906563",
+   "name": "MT Harbour Sun",
+   "flag": "Gabon",
+   "call_sign": "XXWZZ",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2013,
+   "gross_tonnage": 54212,
+   "length_m": 222,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-08",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631873978",
+   "mmsi": "631873978",
+   "imo": "3391577",
+   "name": "MT Harbour Trader",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXBAB",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2003,
+   "gross_tonnage": 34073,
+   "length_m": 176,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-22",
+    "port": "Lagos",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619958958",
+   "mmsi": "619958958",
+   "imo": "4692291",
+   "name": "MV Corisco Falcon",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XX5E6",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2013,
+   "gross_tonnage": 26087,
+   "length_m": 154,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-09",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477903507",
+   "mmsi": "477903507",
+   "imo": "6807735",
+   "name": "MV Volta Breeze",
+   "flag": "Hong Kong",
+   "call_sign": "XXSGS",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2014,
+   "gross_tonnage": 23447,
+   "length_m": 146,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-14",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563333921",
+   "mmsi": "563333921",
+   "imo": "3925938",
+   "name": "MV Tropic Navigator",
+   "flag": "Singapore",
+   "call_sign": "9VJ06",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2000,
+   "gross_tonnage": 30311,
+   "length_m": 166,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-09",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657728629",
+   "mmsi": "657728629",
+   "imo": "1712985",
+   "name": "MV Gulf Sun",
+   "flag": "Nigeria",
+   "call_sign": "5NKG8",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 1997,
+   "gross_tonnage": 24750,
+   "length_m": 150,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-17",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256916041",
+   "mmsi": "256916041",
+   "imo": "5043734",
+   "name": "MV Bonga Promise",
+   "flag": "Malta",
+   "call_sign": "9HCSU",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2014,
+   "gross_tonnage": 33687,
+   "length_m": 175,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-17",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538126315",
+   "mmsi": "538126315",
+   "imo": "5413939",
+   "name": "MV Lagoon Breeze",
+   "flag": "Marshall Is.",
+   "call_sign": "V7KJE",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2010,
+   "gross_tonnage": 19166,
+   "length_m": 132,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-26",
+    "port": "Lagos",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256479220",
+   "mmsi": "256479220",
+   "imo": "5253133",
+   "name": "MV Atlantic Pride",
+   "flag": "Malta",
+   "call_sign": "9HBP8",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2001,
+   "gross_tonnage": 8910,
+   "length_m": 90,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-26",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240990856",
+   "mmsi": "240990856",
+   "imo": "2451411",
+   "name": "MT Ogun Star",
+   "flag": "Greece",
+   "call_sign": "XXUGM",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2010,
+   "gross_tonnage": 64953,
+   "length_m": 243,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-21",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477933831",
+   "mmsi": "477933831",
+   "imo": "7091266",
+   "name": "MV Harbour Breeze",
+   "flag": "Hong Kong",
+   "call_sign": "XXE5L",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 1999,
+   "gross_tonnage": 15057,
+   "length_m": 117,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-07",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240308301",
+   "mmsi": "240308301",
+   "imo": "5895424",
+   "name": "MV Ada Crest",
+   "flag": "Greece",
+   "call_sign": "XX6XS",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2001,
+   "gross_tonnage": 12830,
+   "length_m": 108,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-07",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563545217",
+   "mmsi": "563545217",
+   "imo": "9076155",
+   "name": "MT Palm Spirit",
+   "flag": "Singapore",
+   "call_sign": "9V06M",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2010,
+   "gross_tonnage": 30311,
+   "length_m": 166,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-22",
+    "port": "Lomé",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668493200",
+   "mmsi": "668493200",
+   "imo": "1611416",
+   "name": "MV Cape Venture",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XX8FK",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2003,
+   "gross_tonnage": 23127,
+   "length_m": 145,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-05",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636735924",
+   "mmsi": "636735924",
+   "imo": "4347561",
+   "name": "MT Sahel Crest",
+   "flag": "Liberia",
+   "call_sign": "A8CDS",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2010,
+   "gross_tonnage": 61265,
+   "length_m": 236,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-01",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240336842",
+   "mmsi": "240336842",
+   "imo": "2622840",
+   "name": "MT Bonga Crest",
+   "flag": "Greece",
+   "call_sign": "XXMDF",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2017,
+   "gross_tonnage": 64420,
+   "length_m": 242,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-07",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610503930",
+   "mmsi": "610503930",
+   "imo": "2262705",
+   "name": "MV Lagoon Wind",
+   "flag": "Benin",
+   "call_sign": "TYWHF",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2011,
+   "gross_tonnage": 38878,
+   "length_m": 188,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-24",
+    "port": "Onne",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613627386",
+   "mmsi": "613627386",
+   "imo": "6973247",
+   "name": "MV Corisco Unity",
+   "flag": "Cameroon",
+   "call_sign": "TJYKJ",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2020,
+   "gross_tonnage": 38055,
+   "length_m": 186,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-15",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209812857",
+   "mmsi": "209812857",
+   "imo": "1430941",
+   "name": "MV Keta Endeavour",
+   "flag": "Cyprus",
+   "call_sign": "XXWED",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 1996,
+   "gross_tonnage": 10349,
+   "length_m": 97,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-20",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613420565",
+   "mmsi": "613420565",
+   "imo": "4810013",
+   "name": "MT Niger Horizon",
+   "flag": "Cameroon",
+   "call_sign": "TJ1MY",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2012,
+   "gross_tonnage": 32542,
+   "length_m": 172,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-21",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209721710",
+   "mmsi": "209721710",
+   "imo": "1908209",
+   "name": "MT Harbour Swift",
+   "flag": "Cyprus",
+   "call_sign": "XX9CC",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2021,
+   "gross_tonnage": 54701,
+   "length_m": 223,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-24",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636317116",
+   "mmsi": "636317116",
+   "imo": "5257282",
+   "name": "MV Delta Spirit",
+   "flag": "Liberia",
+   "call_sign": "A8EG0",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2008,
+   "gross_tonnage": 13069,
+   "length_m": 109,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-09",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610818404",
+   "mmsi": "610818404",
+   "imo": "5211680",
+   "name": "MV Mono Pride",
+   "flag": "Benin",
+   "call_sign": "TYSE0",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2013,
+   "gross_tonnage": 25081,
+   "length_m": 151,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-22",
+    "port": "Lomé",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610509137",
+   "mmsi": "610509137",
+   "imo": "4694861",
+   "name": "MV Royal Harvest",
+   "flag": "Benin",
+   "call_sign": "TYRHK",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 1997,
+   "gross_tonnage": 32542,
+   "length_m": 172,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-22",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256894815",
+   "mmsi": "256894815",
+   "imo": "7307483",
+   "name": "MT Comoe Wind",
+   "flag": "Malta",
+   "call_sign": "9HFD7",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 1996,
+   "gross_tonnage": 64420,
+   "length_m": 242,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-01",
+    "port": "Lomé",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209195371",
+   "mmsi": "209195371",
+   "imo": "1548994",
+   "name": "MT Sahel Promise",
+   "flag": "Cyprus",
+   "call_sign": "XXB30",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 1996,
+   "gross_tonnage": 63360,
+   "length_m": 240,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-21",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626530725",
+   "mmsi": "626530725",
+   "imo": "1751022",
+   "name": "MV Lagoon Dawn",
+   "flag": "Gabon",
+   "call_sign": "XXS1H",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2021,
+   "gross_tonnage": 14801,
+   "length_m": 116,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-17",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636541518",
+   "mmsi": "636541518",
+   "imo": "9524126",
+   "name": "MV Atlantic Dawn",
+   "flag": "Liberia",
+   "call_sign": "A8JVL",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2020,
+   "gross_tonnage": 29585,
+   "length_m": 164,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-23",
+    "port": "Onne",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671893440",
+   "mmsi": "671893440",
+   "imo": "1723465",
+   "name": "MV Ogooue Bay",
+   "flag": "Togo",
+   "call_sign": "5VZEL",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2000,
+   "gross_tonnage": 35640,
+   "length_m": 180,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-21",
+    "port": "Douala",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538168653",
+   "mmsi": "538168653",
+   "imo": "1297117",
+   "name": "MT Delta Breeze",
+   "flag": "Marshall Is.",
+   "call_sign": "V7J4M",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2014,
+   "gross_tonnage": 41827,
+   "length_m": 195,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-21",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209769582",
+   "mmsi": "209769582",
+   "imo": "5906297",
+   "name": "MV Eko Star",
+   "flag": "Cyprus",
+   "call_sign": "XX8NU",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2005,
+   "gross_tonnage": 22493,
+   "length_m": 143,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-18",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657400105",
+   "mmsi": "657400105",
+   "imo": "9752383",
+   "name": "MV Sassandra Horizon",
+   "flag": "Nigeria",
+   "call_sign": "5NXMX",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2012,
+   "gross_tonnage": 31046,
+   "length_m": 168,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-05",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668610016",
+   "mmsi": "668610016",
+   "imo": "3625186",
+   "name": "MV Bight Dawn",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XX58B",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2019,
+   "gross_tonnage": 14801,
+   "length_m": 116,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-17",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538580352",
+   "mmsi": "538580352",
+   "imo": "2728101",
+   "name": "MT West Wind",
+   "flag": "Marshall Is.",
+   "call_sign": "V78A2",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2007,
+   "gross_tonnage": 38465,
+   "length_m": 187,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-14",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209582816",
+   "mmsi": "209582816",
+   "imo": "4844480",
+   "name": "MV West Crest",
+   "flag": "Cyprus",
+   "call_sign": "XXAFT",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2016,
+   "gross_tonnage": 23769,
+   "length_m": 147,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-10",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631728334",
+   "mmsi": "631728334",
+   "imo": "9601467",
+   "name": "MT Atlantic Breeze",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XX8DS",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2004,
+   "gross_tonnage": 25749,
+   "length_m": 153,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-01",
+    "port": "Lagos",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256852472",
+   "mmsi": "256852472",
+   "imo": "4357607",
+   "name": "MT Volta Unity",
+   "flag": "Malta",
+   "call_sign": "9H4VF",
+   "owner": "Tidewater Supply Nigeria",
+   "manager": "Tidewater Supply Nigeria",
+   "built": 2017,
+   "gross_tonnage": 44000,
+   "length_m": 200,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-13",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619120402",
+   "mmsi": "619120402",
+   "imo": "1592725",
+   "name": "MV Sassandra Legacy",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XXFNL",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2013,
+   "gross_tonnage": 11897,
+   "length_m": 104,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-11",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244858934",
+   "mmsi": "244858934",
+   "imo": "8163030",
+   "name": "MV Ogun Trader",
+   "flag": "Netherlands",
+   "call_sign": "XXX0N",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2000,
+   "gross_tonnage": 20948,
+   "length_m": 138,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-06",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619172955",
+   "mmsi": "619172955",
+   "imo": "4093471",
+   "name": "MT Sahel Harvest",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XXFP8",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2021,
+   "gross_tonnage": 53725,
+   "length_m": 221,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-21",
+    "port": "Onne",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627123981",
+   "mmsi": "627123981",
+   "imo": "1162427",
+   "name": "MV West Express",
+   "flag": "Ghana",
+   "call_sign": "9GFTS",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2012,
+   "gross_tonnage": 10349,
+   "length_m": 97,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-14",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631337290",
+   "mmsi": "631337290",
+   "imo": "2385026",
+   "name": "MV Sassandra Light",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXWCH",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2002,
+   "gross_tonnage": 26769,
+   "length_m": 156,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-25",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563302934",
+   "mmsi": "563302934",
+   "imo": "7334802",
+   "name": "MT Akwa Pearl",
+   "flag": "Singapore",
+   "call_sign": "9VBXE",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 1999,
+   "gross_tonnage": 49438,
+   "length_m": 212,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-12",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657235256",
+   "mmsi": "657235256",
+   "imo": "5146732",
+   "name": "MV Gulf Navigator",
+   "flag": "Nigeria",
+   "call_sign": "5NTW3",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2012,
+   "gross_tonnage": 9109,
+   "length_m": 91,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-04",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "209102423",
+   "mmsi": "209102423",
+   "imo": "5384669",
+   "name": "MV Kribi Promise",
+   "flag": "Cyprus",
+   "call_sign": "XX44G",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2001,
+   "gross_tonnage": 18877,
+   "length_m": 131,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cyprus",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-10",
+    "port": "Onne",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619542008",
+   "mmsi": "619542008",
+   "imo": "9522257",
+   "name": "MV Keta Trader",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XXTV3",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2021,
+   "gross_tonnage": 33303,
+   "length_m": 174,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-15",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671209738",
+   "mmsi": "671209738",
+   "imo": "3523754",
+   "name": "MT Delta Hope",
+   "flag": "Togo",
+   "call_sign": "5VPY6",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2002,
+   "gross_tonnage": 25414,
+   "length_m": 152,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-06",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631719080",
+   "mmsi": "631719080",
+   "imo": "5473563",
+   "name": "MT Volta Mariner",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXFDG",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 1997,
+   "gross_tonnage": 30677,
+   "length_m": 167,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-15",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631823081",
+   "mmsi": "631823081",
+   "imo": "7256464",
+   "name": "MT Meridian Unity",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XX2Y0",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 1999,
+   "gross_tonnage": 50847,
+   "length_m": 215,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-26",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631477044",
+   "mmsi": "631477044",
+   "imo": "9854923",
+   "name": "MT Bandama Navigator",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXS2Y",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2021,
+   "gross_tonnage": 46227,
+   "length_m": 205,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-07",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351814521",
+   "mmsi": "351814521",
+   "imo": "7451430",
+   "name": "MT Sahel Falcon",
+   "flag": "Panama",
+   "call_sign": "3ET0C",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2012,
+   "gross_tonnage": 67654,
+   "length_m": 248,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-13",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657167107",
+   "mmsi": "657167107",
+   "imo": "7297133",
+   "name": "MV Palm Mariner",
+   "flag": "Nigeria",
+   "call_sign": "5NMDN",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 1996,
+   "gross_tonnage": 15840,
+   "length_m": 120,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-19",
+    "port": "Lomé",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668259448",
+   "mmsi": "668259448",
+   "imo": "6073815",
+   "name": "MT Bight Express",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XXN7V",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2009,
+   "gross_tonnage": 58697,
+   "length_m": 231,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-06",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477153015",
+   "mmsi": "477153015",
+   "imo": "4837396",
+   "name": "MV Comoe Wind",
+   "flag": "Hong Kong",
+   "call_sign": "XXV8F",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2002,
+   "gross_tonnage": 1109,
+   "length_m": 43,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-13",
+    "port": "Lomé",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657377246",
+   "mmsi": "657377246",
+   "imo": "2228515",
+   "name": "MV Bandama Dawn",
+   "flag": "Nigeria",
+   "call_sign": "5NCSR",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2000,
+   "gross_tonnage": 2232,
+   "length_m": 61,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-18",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351743723",
+   "mmsi": "351743723",
+   "imo": "4825795",
+   "name": "MV Delta Breeze",
+   "flag": "Panama",
+   "call_sign": "3EEW8",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2000,
+   "gross_tonnage": 1058,
+   "length_m": 42,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-24",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538607339",
+   "mmsi": "538607339",
+   "imo": "2000511",
+   "name": "MV Ocean Sun",
+   "flag": "Marshall Is.",
+   "call_sign": "V7N1K",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2011,
+   "gross_tonnage": 1058,
+   "length_m": 42,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-15",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351512401",
+   "mmsi": "351512401",
+   "imo": "8484305",
+   "name": "MV Akwa Crest",
+   "flag": "Panama",
+   "call_sign": "3ES7U",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2005,
+   "gross_tonnage": 1269,
+   "length_m": 46,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-03",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351921559",
+   "mmsi": "351921559",
+   "imo": "7507631",
+   "name": "MV Meridian Runner",
+   "flag": "Panama",
+   "call_sign": "3E0G4",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2002,
+   "gross_tonnage": 4968,
+   "length_m": 91,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-22",
+    "port": "Onne",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668157838",
+   "mmsi": "668157838",
+   "imo": "7006819",
+   "name": "MV Tropic Sun",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XXB2C",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2008,
+   "gross_tonnage": 1382,
+   "length_m": 48,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-03",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257523613",
+   "mmsi": "257523613",
+   "imo": "5996797",
+   "name": "MV Meridian Express",
+   "flag": "Norway",
+   "call_sign": "XXK6E",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2018,
+   "gross_tonnage": 3110,
+   "length_m": 72,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-13",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240950592",
+   "mmsi": "240950592",
+   "imo": "3691719",
+   "name": "MV Palm Endeavour",
+   "flag": "Greece",
+   "call_sign": "XXNKD",
+   "owner": "Kribi Offshore Services",
+   "manager": "Kribi Offshore Services",
+   "built": 2004,
+   "gross_tonnage": 3024,
+   "length_m": 71,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-26",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619406302",
+   "mmsi": "619406302",
+   "imo": "2433835",
+   "name": "MV Palm Pride",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XXUU4",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2000,
+   "gross_tonnage": 1685,
+   "length_m": 53,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-03",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351910342",
+   "mmsi": "351910342",
+   "imo": "3958662",
+   "name": "FV West Spirit",
+   "flag": "Panama",
+   "call_sign": "3ELEX",
+   "owner": "West Spirit Fishing Co.",
+   "manager": "West Spirit Fishing Co.",
+   "built": 2011,
+   "gross_tonnage": 576,
+   "length_m": 31,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2019
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-02",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627863095",
+   "mmsi": "627863095",
+   "imo": "2333059",
+   "name": "FV Ogooue Horizon",
+   "flag": "Ghana",
+   "call_sign": "9GXGX",
+   "owner": "Ogooue Horizon Fishing Co.",
+   "manager": "Ogooue Horizon Fishing Co.",
+   "built": 2018,
+   "gross_tonnage": 576,
+   "length_m": 31,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-21",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256103119",
+   "mmsi": "256103119",
+   "imo": "9912658",
+   "name": "FV Gulf Spirit",
+   "flag": "Malta",
+   "call_sign": "9HCDL",
+   "owner": "Gulf Spirit Fishing Co.",
+   "manager": "Gulf Spirit Fishing Co.",
+   "built": 2018,
+   "gross_tonnage": 777,
+   "length_m": 36,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-18",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538302445",
+   "mmsi": "538302445",
+   "imo": "5608895",
+   "name": "FV West Pearl",
+   "flag": "Marshall Is.",
+   "call_sign": "V7122",
+   "owner": "West Pearl Fishing Co.",
+   "manager": "West Pearl Fishing Co.",
+   "built": 1996,
+   "gross_tonnage": 470,
+   "length_m": 28,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-26",
+    "port": "Douala",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256636766",
+   "mmsi": "256636766",
+   "imo": "2421105",
+   "name": "FV Tropic Falcon",
+   "flag": "Malta",
+   "call_sign": "9HDMB",
+   "owner": "Tropic Falcon Fishing Co.",
+   "manager": "Tropic Falcon Fishing Co.",
+   "built": 2007,
+   "gross_tonnage": 405,
+   "length_m": 26,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-26",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671272692",
+   "mmsi": "671272692",
+   "imo": "7895686",
+   "name": "FV Tropic Light",
+   "flag": "Togo",
+   "call_sign": "5V4G2",
+   "owner": "Tropic Light Fishing Co.",
+   "manager": "Tropic Light Fishing Co.",
+   "built": 2009,
+   "gross_tonnage": 735,
+   "length_m": 35,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-12",
+    "port": "Onne",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563504869",
+   "mmsi": "563504869",
+   "imo": null,
+   "name": "FV Palm Falcon",
+   "flag": "Singapore",
+   "call_sign": "9VJSG",
+   "owner": "Palm Falcon Fishing Co.",
+   "manager": "Palm Falcon Fishing Co.",
+   "built": 2005,
+   "gross_tonnage": 290,
+   "length_m": 22,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2014
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627302050",
+   "mmsi": "627302050",
+   "imo": "5563356",
+   "name": "FV Delta Unity",
+   "flag": "Ghana",
+   "call_sign": "9GLWT",
+   "owner": "Delta Unity Fishing Co.",
+   "manager": "Delta Unity Fishing Co.",
+   "built": 1998,
+   "gross_tonnage": 540,
+   "length_m": 30,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-13",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671166448",
+   "mmsi": "671166448",
+   "imo": null,
+   "name": "FV Ivory Horizon",
+   "flag": "Togo",
+   "call_sign": "5VBW5",
+   "owner": "Ivory Horizon Fishing Co.",
+   "manager": "Ivory Horizon Fishing Co.",
+   "built": 2015,
+   "gross_tonnage": 216,
+   "length_m": 19,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2020
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671427289",
+   "mmsi": "671427289",
+   "imo": "2038556",
+   "name": "FV Comoe Unity",
+   "flag": "Togo",
+   "call_sign": "5VBLE",
+   "owner": "Comoe Unity Fishing Co.",
+   "manager": "Comoe Unity Fishing Co.",
+   "built": 2017,
+   "gross_tonnage": 576,
+   "length_m": 31,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-05",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351997487",
+   "mmsi": "351997487",
+   "imo": null,
+   "name": "FV Corisco Wind",
+   "flag": "Panama",
+   "call_sign": "3E81F",
+   "owner": "Corisco Wind Fishing Co.",
+   "manager": "Corisco Wind Fishing Co.",
+   "built": 2009,
+   "gross_tonnage": 290,
+   "length_m": 22,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2017
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244505349",
+   "mmsi": "244505349",
+   "imo": "7873078",
+   "name": "FV Royal Star",
+   "flag": "Netherlands",
+   "call_sign": "XXS1S",
+   "owner": "Royal Star Fishing Co.",
+   "manager": "Royal Star Fishing Co.",
+   "built": 1997,
+   "gross_tonnage": 653,
+   "length_m": 33,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-24",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477202147",
+   "mmsi": "477202147",
+   "imo": "9422354",
+   "name": "FV Ada Navigator",
+   "flag": "Hong Kong",
+   "call_sign": "XXZGL",
+   "owner": "Ada Navigator Fishing Co.",
+   "manager": "Ada Navigator Fishing Co.",
+   "built": 2012,
+   "gross_tonnage": 777,
+   "length_m": 36,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-19",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563743913",
+   "mmsi": "563743913",
+   "imo": "7587318",
+   "name": "FV Ogooue Legacy",
+   "flag": "Singapore",
+   "call_sign": "9VF70",
+   "owner": "Ogooue Legacy Fishing Co.",
+   "manager": "Ogooue Legacy Fishing Co.",
+   "built": 2014,
+   "gross_tonnage": 405,
+   "length_m": 26,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-13",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613679918",
+   "mmsi": "613679918",
+   "imo": "8940086",
+   "name": "FV Comoe Bay",
+   "flag": "Cameroon",
+   "call_sign": "TJJDG",
+   "owner": "Comoe Bay Fishing Co.",
+   "manager": "Comoe Bay Fishing Co.",
+   "built": 2008,
+   "gross_tonnage": 470,
+   "length_m": 28,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-06",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257377210",
+   "mmsi": "257377210",
+   "imo": "1451074",
+   "name": "FV Volta Legacy",
+   "flag": "Norway",
+   "call_sign": "XX7LU",
+   "owner": "Volta Legacy Fishing Co.",
+   "manager": "Volta Legacy Fishing Co.",
+   "built": 2012,
+   "gross_tonnage": 504,
+   "length_m": 29,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-21",
+    "port": "Lagos",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "244848972",
+   "mmsi": "244848972",
+   "imo": "4098251",
+   "name": "FV Sassandra Mariner",
+   "flag": "Netherlands",
+   "call_sign": "XXGCY",
+   "owner": "Sassandra Mariner Fishing Co.",
+   "manager": "Sassandra Mariner Fishing Co.",
+   "built": 2000,
+   "gross_tonnage": 866,
+   "length_m": 38,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Netherlands",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-05",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351181523",
+   "mmsi": "351181523",
+   "imo": "8561921",
+   "name": "FV Keta Voyager",
+   "flag": "Panama",
+   "call_sign": "3E6AX",
+   "owner": "Keta Voyager Fishing Co.",
+   "manager": "Keta Voyager Fishing Co.",
+   "built": 2009,
+   "gross_tonnage": 614,
+   "length_m": 32,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-11",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240249982",
+   "mmsi": "240249982",
+   "imo": null,
+   "name": "FV Akwa Express",
+   "flag": "Greece",
+   "call_sign": "XX5TA",
+   "owner": "Akwa Express Fishing Co.",
+   "manager": "Akwa Express Fishing Co.",
+   "built": 2016,
+   "gross_tonnage": 216,
+   "length_m": 19,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2019
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477855138",
+   "mmsi": "477855138",
+   "imo": null,
+   "name": "FV Volta Pride",
+   "flag": "Hong Kong",
+   "call_sign": "XXKAC",
+   "owner": "Volta Pride Fishing Co.",
+   "manager": "Volta Pride Fishing Co.",
+   "built": 1998,
+   "gross_tonnage": 317,
+   "length_m": 23,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2014
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626317983",
+   "mmsi": "626317983",
+   "imo": "8042626",
+   "name": "FV Sassandra Dawn",
+   "flag": "Gabon",
+   "call_sign": "XX8KR",
+   "owner": "Sassandra Dawn Fishing Co.",
+   "manager": "Sassandra Dawn Fishing Co.",
+   "built": 2006,
+   "gross_tonnage": 866,
+   "length_m": 38,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-10",
+    "port": "Onne",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477670535",
+   "mmsi": "477670535",
+   "imo": "1045045",
+   "name": "FV Ada Glory",
+   "flag": "Hong Kong",
+   "call_sign": "XXKHW",
+   "owner": "Ada Glory Fishing Co.",
+   "manager": "Ada Glory Fishing Co.",
+   "built": 2012,
+   "gross_tonnage": 375,
+   "length_m": 25,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-05",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671594267",
+   "mmsi": "671594267",
+   "imo": "6886054",
+   "name": "FV Ogooue Star",
+   "flag": "Togo",
+   "call_sign": "5V3N7",
+   "owner": "Ogooue Star Fishing Co.",
+   "manager": "Ogooue Star Fishing Co.",
+   "built": 2000,
+   "gross_tonnage": 614,
+   "length_m": 32,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-06",
+    "port": "Onne",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610109412",
+   "mmsi": "610109412",
+   "imo": "6471407",
+   "name": "FV Sahel Light",
+   "flag": "Benin",
+   "call_sign": "TYT2Y",
+   "owner": "Sahel Light Fishing Co.",
+   "manager": "Sahel Light Fishing Co.",
+   "built": 2020,
+   "gross_tonnage": 777,
+   "length_m": 36,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-17",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636910137",
+   "mmsi": "636910137",
+   "imo": "7731581",
+   "name": "FV Atlantic Crest",
+   "flag": "Liberia",
+   "call_sign": "A80NS",
+   "owner": "Atlantic Crest Fishing Co.",
+   "manager": "Atlantic Crest Fishing Co.",
+   "built": 2020,
+   "gross_tonnage": 777,
+   "length_m": 36,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-24",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627918371",
+   "mmsi": "627918371",
+   "imo": "5826863",
+   "name": "FV Ocean Wind",
+   "flag": "Ghana",
+   "call_sign": "9GVT8",
+   "owner": "Ocean Wind Fishing Co.",
+   "manager": "Ocean Wind Fishing Co.",
+   "built": 2018,
+   "gross_tonnage": 693,
+   "length_m": 34,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-07",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240351803",
+   "mmsi": "240351803",
+   "imo": "9584085",
+   "name": "FV Sanaga Spirit",
+   "flag": "Greece",
+   "call_sign": "XX88P",
+   "owner": "Sanaga Spirit Fishing Co.",
+   "manager": "Sanaga Spirit Fishing Co.",
+   "built": 2004,
+   "gross_tonnage": 735,
+   "length_m": 35,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-27",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626645322",
+   "mmsi": "626645322",
+   "imo": "8216605",
+   "name": "FV Wouri Harvest",
+   "flag": "Gabon",
+   "call_sign": "XXJEE",
+   "owner": "Wouri Harvest Fishing Co.",
+   "manager": "Wouri Harvest Fishing Co.",
+   "built": 1996,
+   "gross_tonnage": 437,
+   "length_m": 27,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-08",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256275907",
+   "mmsi": "256275907",
+   "imo": "2126353",
+   "name": "FV Elmina Harvest",
+   "flag": "Malta",
+   "call_sign": "9HLHA",
+   "owner": "Elmina Harvest Fishing Co.",
+   "manager": "Elmina Harvest Fishing Co.",
+   "built": 2015,
+   "gross_tonnage": 437,
+   "length_m": 27,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-18",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627313601",
+   "mmsi": "627313601",
+   "imo": "6091702",
+   "name": "FV Corisco Endeavour",
+   "flag": "Ghana",
+   "call_sign": "9G7D5",
+   "owner": "Corisco Endeavour Fishing Co.",
+   "manager": "Corisco Endeavour Fishing Co.",
+   "built": 2021,
+   "gross_tonnage": 470,
+   "length_m": 28,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-12",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671370755",
+   "mmsi": "671370755",
+   "imo": "5094783",
+   "name": "FV Meridian Crest",
+   "flag": "Togo",
+   "call_sign": "5VFBT",
+   "owner": "Meridian Crest Fishing Co.",
+   "manager": "Meridian Crest Fishing Co.",
+   "built": 2005,
+   "gross_tonnage": 437,
+   "length_m": 27,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-16",
+    "port": "Lagos",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626524990",
+   "mmsi": "626524990",
+   "imo": null,
+   "name": "FV Wouri Crest",
+   "flag": "Gabon",
+   "call_sign": "XXU4F",
+   "owner": "Wouri Crest Fishing Co.",
+   "manager": "Wouri Crest Fishing Co.",
+   "built": 1999,
+   "gross_tonnage": 290,
+   "length_m": 22,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2015
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613908170",
+   "mmsi": "613908170",
+   "imo": "7435228",
+   "name": "FV Tropic Pride",
+   "flag": "Cameroon",
+   "call_sign": "TJ98M",
+   "owner": "Tropic Pride Fishing Co.",
+   "manager": "Tropic Pride Fishing Co.",
+   "built": 2021,
+   "gross_tonnage": 540,
+   "length_m": 30,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-15",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538741773",
+   "mmsi": "538741773",
+   "imo": "7416595",
+   "name": "FV Ocean Glory",
+   "flag": "Marshall Is.",
+   "call_sign": "V7JXE",
+   "owner": "Ocean Glory Fishing Co.",
+   "manager": "Ocean Glory Fishing Co.",
+   "built": 2005,
+   "gross_tonnage": 912,
+   "length_m": 39,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-25",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626801358",
+   "mmsi": "626801358",
+   "imo": "8035879",
+   "name": "FV Delta Breeze",
+   "flag": "Gabon",
+   "call_sign": "XXS9X",
+   "owner": "Delta Breeze Fishing Co.",
+   "manager": "Delta Breeze Fishing Co.",
+   "built": 2003,
+   "gross_tonnage": 540,
+   "length_m": 30,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2017
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-01",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610667904",
+   "mmsi": "610667904",
+   "imo": null,
+   "name": "FV Sanaga Wind",
+   "flag": "Benin",
+   "call_sign": "TYEMK",
+   "owner": "Sanaga Wind Fishing Co.",
+   "manager": "Sanaga Wind Fishing Co.",
+   "built": 1998,
+   "gross_tonnage": 290,
+   "length_m": 22,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2022
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627789126",
+   "mmsi": "627789126",
+   "imo": "7329792",
+   "name": "FV Royal Glory",
+   "flag": "Ghana",
+   "call_sign": "9G38A",
+   "owner": "Royal Glory Fishing Co.",
+   "manager": "Royal Glory Fishing Co.",
+   "built": 2015,
+   "gross_tonnage": 653,
+   "length_m": 33,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-10",
+    "port": "Lagos",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631949891",
+   "mmsi": "631949891",
+   "imo": null,
+   "name": "FV Cape Harvest",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXP33",
+   "owner": "Cape Harvest Fishing Co.",
+   "manager": "Cape Harvest Fishing Co.",
+   "built": 2017,
+   "gross_tonnage": 194,
+   "length_m": 18,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2020
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668488922",
+   "mmsi": "668488922",
+   "imo": "5566956",
+   "name": "FV Coral Spirit",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XXHG6",
+   "owner": "Coral Spirit Fishing Co.",
+   "manager": "Coral Spirit Fishing Co.",
+   "built": 2015,
+   "gross_tonnage": 504,
+   "length_m": 29,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2014
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-25",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626819015",
+   "mmsi": "626819015",
+   "imo": null,
+   "name": "FV Kribi Hope",
+   "flag": "Gabon",
+   "call_sign": "XXE4C",
+   "owner": "Kribi Hope Fishing Co.",
+   "manager": "Kribi Hope Fishing Co.",
+   "built": 2011,
+   "gross_tonnage": 216,
+   "length_m": 19,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2019
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538560106",
+   "mmsi": "538560106",
+   "imo": "6137221",
+   "name": "FV Zenith Sun",
+   "flag": "Marshall Is.",
+   "call_sign": "V7E3W",
+   "owner": "Zenith Sun Fishing Co.",
+   "manager": "Zenith Sun Fishing Co.",
+   "built": 2017,
+   "gross_tonnage": 653,
+   "length_m": 33,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-27",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257656517",
+   "mmsi": "257656517",
+   "imo": "6504280",
+   "name": "FV West Voyager",
+   "flag": "Norway",
+   "call_sign": "XXUU2",
+   "owner": "West Voyager Fishing Co.",
+   "manager": "West Voyager Fishing Co.",
+   "built": 2003,
+   "gross_tonnage": 576,
+   "length_m": 31,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-19",
+    "port": "Douala",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610160459",
+   "mmsi": "610160459",
+   "imo": null,
+   "name": "FV Meridian Horizon",
+   "flag": "Benin",
+   "call_sign": "TYE53",
+   "owner": "Meridian Horizon Fishing Co.",
+   "manager": "Meridian Horizon Fishing Co.",
+   "built": 2008,
+   "gross_tonnage": 216,
+   "length_m": 19,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2016
+    }
+   ],
+   "last_psc": null,
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563555027",
+   "mmsi": "563555027",
+   "imo": "1054280",
+   "name": "FV Kribi Star",
+   "flag": "Singapore",
+   "call_sign": "9V0G3",
+   "owner": "Kribi Star Fishing Co.",
+   "manager": "Kribi Star Fishing Co.",
+   "built": 2007,
+   "gross_tonnage": 437,
+   "length_m": 27,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-15",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619653847",
+   "mmsi": "619653847",
+   "imo": "4621656",
+   "name": "FV Lagoon Crest",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XXJZE",
+   "owner": "Lagoon Crest Fishing Co.",
+   "manager": "Lagoon Crest Fishing Co.",
+   "built": 2006,
+   "gross_tonnage": 437,
+   "length_m": 27,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-20",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "668734471",
+   "mmsi": "668734471",
+   "imo": "9923126",
+   "name": "OSV Benue Falcon",
+   "flag": "São Tomé and Príncipe",
+   "call_sign": "XXGGE",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2017,
+   "gross_tonnage": 2232,
+   "length_m": 61,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "São Tomé and Príncipe",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-13",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538581620",
+   "mmsi": "538581620",
+   "imo": "2303432",
+   "name": "OSV Atlantic Swift",
+   "flag": "Marshall Is.",
+   "call_sign": "V70AH",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2014,
+   "gross_tonnage": 2306,
+   "length_m": 62,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-06",
+    "port": "Douala",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610648455",
+   "mmsi": "610648455",
+   "imo": "5751977",
+   "name": "OSV Ocean Breeze",
+   "flag": "Benin",
+   "call_sign": "TY7PV",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 1999,
+   "gross_tonnage": 2940,
+   "length_m": 70,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-04",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626698705",
+   "mmsi": "626698705",
+   "imo": "9156371",
+   "name": "OSV Zenith Mariner",
+   "flag": "Gabon",
+   "call_sign": "XX4XU",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2018,
+   "gross_tonnage": 2535,
+   "length_m": 65,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-18",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636153364",
+   "mmsi": "636153364",
+   "imo": "4354966",
+   "name": "OSV Palm Endeavour",
+   "flag": "Liberia",
+   "call_sign": "A80EW",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2016,
+   "gross_tonnage": 2535,
+   "length_m": 65,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-01",
+    "port": "Onne",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538934096",
+   "mmsi": "538934096",
+   "imo": "1037402",
+   "name": "OSV Coral Hope",
+   "flag": "Marshall Is.",
+   "call_sign": "V78CR",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2005,
+   "gross_tonnage": 2018,
+   "length_m": 58,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-26",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671568098",
+   "mmsi": "671568098",
+   "imo": "5863976",
+   "name": "OSV Elmina Dawn",
+   "flag": "Togo",
+   "call_sign": "5V2V4",
+   "owner": "Equatorial Bulk Carriers",
+   "manager": "Equatorial Bulk Carriers",
+   "built": 2005,
+   "gross_tonnage": 1815,
+   "length_m": 55,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-14",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671121663",
+   "mmsi": "671121663",
+   "imo": "5246192",
+   "name": "OSV Ogun Star",
+   "flag": "Togo",
+   "call_sign": "5VTDH",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2010,
+   "gross_tonnage": 2457,
+   "length_m": 64,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-03",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351846768",
+   "mmsi": "351846768",
+   "imo": "6543353",
+   "name": "OSV Niger Mariner",
+   "flag": "Panama",
+   "call_sign": "3EEZB",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2021,
+   "gross_tonnage": 2774,
+   "length_m": 68,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-15",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477981479",
+   "mmsi": "477981479",
+   "imo": "5767304",
+   "name": "OSV Delta Wind",
+   "flag": "Hong Kong",
+   "call_sign": "XXSPT",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2014,
+   "gross_tonnage": 2774,
+   "length_m": 68,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-18",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "636566443",
+   "mmsi": "636566443",
+   "imo": "5018844",
+   "name": "OSV Benue Unity",
+   "flag": "Liberia",
+   "call_sign": "A8UX4",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 2013,
+   "gross_tonnage": 2535,
+   "length_m": 65,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Liberia",
+     "from": 2021
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-25",
+    "port": "Tema",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257808490",
+   "mmsi": "257808490",
+   "imo": "1436725",
+   "name": "OSV Lagoon Light",
+   "flag": "Norway",
+   "call_sign": "XXTUW",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2009,
+   "gross_tonnage": 2940,
+   "length_m": 70,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-12",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "257965331",
+   "mmsi": "257965331",
+   "imo": "7577636",
+   "name": "OSV Niger Glory",
+   "flag": "Norway",
+   "call_sign": "XXNC2",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 1998,
+   "gross_tonnage": 2160,
+   "length_m": 60,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Norway",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-15",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240884192",
+   "mmsi": "240884192",
+   "imo": "6564735",
+   "name": "OSV Tropic Wind",
+   "flag": "Greece",
+   "call_sign": "XX843",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2019,
+   "gross_tonnage": 2535,
+   "length_m": 65,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-15",
+    "port": "Douala",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627529262",
+   "mmsi": "627529262",
+   "imo": "5430822",
+   "name": "OSV Palm Horizon",
+   "flag": "Ghana",
+   "call_sign": "9GSN7",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 1999,
+   "gross_tonnage": 3744,
+   "length_m": 79,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-12",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "477557941",
+   "mmsi": "477557941",
+   "imo": "4531643",
+   "name": "OSV Benue Glory",
+   "flag": "Hong Kong",
+   "call_sign": "XXANR",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 1998,
+   "gross_tonnage": 2381,
+   "length_m": 63,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Hong Kong",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-01-27",
+    "port": "Tema",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240825382",
+   "mmsi": "240825382",
+   "imo": "4423389",
+   "name": "OSV Kribi Bay",
+   "flag": "Greece",
+   "call_sign": "XX32G",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2005,
+   "gross_tonnage": 2856,
+   "length_m": 69,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-02",
+    "port": "Lomé",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "563758551",
+   "mmsi": "563758551",
+   "imo": "4744939",
+   "name": "OSV Coral Navigator",
+   "flag": "Singapore",
+   "call_sign": "9V0K0",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2021,
+   "gross_tonnage": 2232,
+   "length_m": 61,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Singapore",
+     "from": 2016
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-10",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "631486698",
+   "mmsi": "631486698",
+   "imo": "5424287",
+   "name": "OSV Eko Dawn",
+   "flag": "Equatorial Guinea",
+   "call_sign": "XXSUY",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2019,
+   "gross_tonnage": 3024,
+   "length_m": 71,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Equatorial Guinea",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-06",
+    "port": "Douala",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "256750204",
+   "mmsi": "256750204",
+   "imo": "9416343",
+   "name": "OSV Coral Bay",
+   "flag": "Malta",
+   "call_sign": "9HHJF",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2011,
+   "gross_tonnage": 2088,
+   "length_m": 59,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Malta",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-26",
+    "port": "Lagos",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538923013",
+   "mmsi": "538923013",
+   "imo": "7726108",
+   "name": "Tug Bight Hope",
+   "flag": "Marshall Is.",
+   "call_sign": "V72K1",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2008,
+   "gross_tonnage": 437,
+   "length_m": 27,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-10",
+    "port": "Lomé",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "538412509",
+   "mmsi": "538412509",
+   "imo": "3373367",
+   "name": "Tug Sassandra Swift",
+   "flag": "Marshall Is.",
+   "call_sign": "V7D4S",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2010,
+   "gross_tonnage": 405,
+   "length_m": 26,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Marshall Is.",
+     "from": 2018
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-22",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "613101754",
+   "mmsi": "613101754",
+   "imo": "3093539",
+   "name": "Tug Bonga Hope",
+   "flag": "Cameroon",
+   "call_sign": "TJ4D5",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2010,
+   "gross_tonnage": 375,
+   "length_m": 25,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Cameroon",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-07-09",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "240809774",
+   "mmsi": "240809774",
+   "imo": "8291239",
+   "name": "Tug Comoe Dawn",
+   "flag": "Greece",
+   "call_sign": "XXWX5",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2006,
+   "gross_tonnage": 614,
+   "length_m": 32,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Greece",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-11",
+    "port": "Tema",
+    "deficiencies": 3
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671897813",
+   "mmsi": "671897813",
+   "imo": "8814873",
+   "name": "Tug West Navigator",
+   "flag": "Togo",
+   "call_sign": "5VP4G",
+   "owner": "Niger Delta Marine Logistics",
+   "manager": "Niger Delta Marine Logistics",
+   "built": 2017,
+   "gross_tonnage": 437,
+   "length_m": 27,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-13",
+    "port": "Lomé",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610862920",
+   "mmsi": "610862920",
+   "imo": "2547117",
+   "name": "Tug Corisco Hope",
+   "flag": "Benin",
+   "call_sign": "TY58X",
+   "owner": "Mono River Trading",
+   "manager": "Mono River Trading",
+   "built": 2009,
+   "gross_tonnage": 345,
+   "length_m": 24,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-11",
+    "port": "Lomé",
+    "deficiencies": 1
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "610534257",
+   "mmsi": "610534257",
+   "imo": "1705140",
+   "name": "Tug Ocean Harvest",
+   "flag": "Benin",
+   "call_sign": "TYR0R",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 2021,
+   "gross_tonnage": 693,
+   "length_m": 34,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Benin",
+     "from": 2015
+    }
+   ],
+   "last_psc": {
+    "date": "2026-05-25",
+    "port": "Tema",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "619241575",
+   "mmsi": "619241575",
+   "imo": "1345938",
+   "name": "Tug Akwa Voyager",
+   "flag": "Côte d'Ivoire",
+   "call_sign": "XX28C",
+   "owner": "Cobalt Tankers SA",
+   "manager": "Cobalt Tankers SA",
+   "built": 2020,
+   "gross_tonnage": 345,
+   "length_m": 24,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Côte d'Ivoire",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-26",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "671400843",
+   "mmsi": "671400843",
+   "imo": "1856559",
+   "name": "MT Corisco Venture",
+   "flag": "Togo",
+   "call_sign": "5VA0W",
+   "owner": "Delta Coastal Lines",
+   "manager": "Delta Coastal Lines",
+   "built": 2021,
+   "gross_tonnage": 36436,
+   "length_m": 182,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Togo",
+     "from": 2020
+    }
+   ],
+   "last_psc": {
+    "date": "2026-03-13",
+    "port": "Douala",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "616248065",
+   "mmsi": "616248065",
+   "imo": "9475430",
+   "name": "MT Keta Harvest",
+   "flag": "Comoros",
+   "call_sign": "XXA3N",
+   "owner": "West Coast Tankers Ltd",
+   "manager": "West Coast Tankers Ltd",
+   "built": 2002,
+   "gross_tonnage": 15840,
+   "length_m": 120,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Comoros",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-02-11",
+    "port": "Onne",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "626933686",
+   "mmsi": "626933686",
+   "imo": "3011402",
+   "name": "MV Ogooue Navigator",
+   "flag": "Gabon",
+   "call_sign": "XX1CT",
+   "owner": "Atlantic Meridian Shipping Ltd",
+   "manager": "Atlantic Meridian Shipping Ltd",
+   "built": 1997,
+   "gross_tonnage": 10137,
+   "length_m": 96,
+   "class_society": null,
+   "flag_history": [
+    {
+     "flag": "Gabon",
+     "from": 2022
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-05",
+    "port": "Lagos",
+    "deficiencies": 5
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "657649078",
+   "mmsi": "657649078",
+   "imo": "1814604",
+   "name": "OSV Wouri Crest",
+   "flag": "Nigeria",
+   "call_sign": "5NYV1",
+   "owner": "Volta Shipping Agency",
+   "manager": "Volta Shipping Agency",
+   "built": 1999,
+   "gross_tonnage": 2018,
+   "length_m": 58,
+   "class_society": "Class society C",
+   "flag_history": [
+    {
+     "flag": "Nigeria",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-08-04",
+    "port": "Douala",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "351459615",
+   "mmsi": "351459615",
+   "imo": "3107809",
+   "name": "MV Elmina Promise",
+   "flag": "Panama",
+   "call_sign": "3EE66",
+   "owner": "Palmline Feeder Services",
+   "manager": "Palmline Feeder Services",
+   "built": 2008,
+   "gross_tonnage": 21560,
+   "length_m": 140,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Panama",
+     "from": 2013
+    }
+   ],
+   "last_psc": {
+    "date": "2026-04-21",
+    "port": "Lagos",
+    "deficiencies": 2
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "518661955",
+   "mmsi": "518661955",
+   "imo": "7472628",
+   "name": "MT Cape Sable",
+   "flag": "Cook Islands",
+   "call_sign": "XXWDX",
+   "owner": "Harbour Gate Maritime",
+   "manager": "Harbour Gate Maritime",
+   "built": 2010,
+   "gross_tonnage": 24750,
+   "length_m": 150,
+   "class_society": "Class society B",
+   "flag_history": [
+    {
+     "flag": "Cook Islands",
+     "from": 2023
+    }
+   ],
+   "last_psc": {
+    "date": "2026-09-03",
+    "port": "Onne",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  },
+  {
+   "vessel_id": "627626309",
+   "mmsi": "627626309",
+   "imo": "4807432",
+   "name": "FV Golden Net",
+   "flag": "Ghana",
+   "call_sign": "9GHGG",
+   "owner": "Golden Net Fishing Co.",
+   "manager": "Golden Net Fishing Co.",
+   "built": 2002,
+   "gross_tonnage": 540,
+   "length_m": 30,
+   "class_society": "Class society A",
+   "flag_history": [
+    {
+     "flag": "Ghana",
+     "from": 2012
+    }
+   ],
+   "last_psc": {
+    "date": "2026-06-04",
+    "port": "Lagos",
+    "deficiencies": 0
+   },
+   "watchlist": null,
+   "notes": null,
+   "former_names": []
+  }
+ ]
+}

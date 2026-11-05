@@ -1,0 +1,141 @@
+{
+ "note": "Patrol assets of a fictional regional task group. Positions, fuel and readiness are simulated by the team.",
+ "assets": [
+  {
+   "id": "PV-ALPHA",
+   "name": "Patrol Vessel Alpha",
+   "type": "OPV",
+   "op": "patrol",
+   "base": "Lagos",
+   "lon": 3.4,
+   "lat": 6.3,
+   "speed_kn": 16,
+   "fuel": 36000,
+   "capacity": 60000,
+   "burn_l_per_nm": 75,
+   "aliases": [
+    "alpha",
+    "patrol vessel alpha",
+    "pv alpha"
+   ],
+   "role": "intercept"
+  },
+  {
+   "id": "PV-BRAVO",
+   "name": "Patrol Vessel Bravo",
+   "type": "OPV",
+   "op": "patrol",
+   "base": "Bonny",
+   "lon": 7.15,
+   "lat": 4.3,
+   "speed_kn": 16,
+   "fuel": 9000,
+   "capacity": 60000,
+   "burn_l_per_nm": 75,
+   "aliases": [
+    "bravo",
+    "patrol vessel bravo",
+    "pv bravo"
+   ],
+   "role": "intercept"
+  },
+  {
+   "id": "PB-CHARLIE",
+   "name": "Patrol Boat Charlie",
+   "type": "PATROL",
+   "op": "patrol",
+   "base": "Calabar",
+   "lon": 8.4,
+   "lat": 4.45,
+   "speed_kn": 22,
+   "fuel": 14000,
+   "capacity": 18000,
+   "burn_l_per_nm": 25,
+   "aliases": [
+    "charlie",
+    "patrol boat charlie",
+    "pb charlie"
+   ],
+   "role": "intercept"
+  },
+  {
+   "id": "PB-DELTA",
+   "name": "Patrol Boat Delta",
+   "type": "PATROL",
+   "op": "patrol",
+   "base": "Douala",
+   "lon": 9.55,
+   "lat": 3.85,
+   "speed_kn": 22,
+   "fuel": 14000,
+   "capacity": 18000,
+   "burn_l_per_nm": 25,
+   "aliases": [
+    "delta",
+    "patrol boat delta",
+    "pb delta"
+   ],
+   "role": "intercept"
+  },
+  {
+   "id": "RHIB-1",
+   "name": "Interceptor 1",
+   "type": "RHIB",
+   "op": "rhib",
+   "base": "Lagos",
+   "lon": 4.0,
+   "lat": 6.3,
+   "speed_kn": 35,
+   "fuel": 700,
+   "capacity": 800,
+   "burn_l_per_nm": 6,
+   "aliases": [
+    "interceptor one",
+    "interceptor 1",
+    "rhib one",
+    "rhib 1"
+   ],
+   "role": "intercept"
+  },
+  {
+   "id": "RHIB-2",
+   "name": "Interceptor 2",
+   "type": "RHIB",
+   "op": "rhib",
+   "base": "Bonny",
+   "lon": 7.2,
+   "lat": 4.3,
+   "speed_kn": 35,
+   "fuel": 600,
+   "capacity": 800,
+   "burn_l_per_nm": 6,
+   "aliases": [
+    "interceptor two",
+    "interceptor 2",
+    "rhib two",
+    "rhib 2"
+   ],
+   "role": "intercept"
+  },
+  {
+   "id": "AIR-1",
+   "name": "Air 1 (helicopter)",
+   "type": "AIR",
+   "op": "air",
+   "base": "Port Harcourt",
+   "lon": 7.1,
+   "lat": 4.95,
+   "speed_kn": 120,
+   "fuel": 1100,
+   "capacity": 1400,
+   "burn_l_per_nm": 3.4,
+   "aliases": [
+    "air one",
+    "air 1",
+    "helicopter",
+    "chopper"
+   ],
+   "role": "verify"
+  }
+ ]
+}
